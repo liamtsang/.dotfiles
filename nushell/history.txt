@@ -1,0 +1,471 @@
+$nu.env-path
+cd C:\Users\liamt\AppData\Roaming\nushell\env.nu
+ls
+cd C:\Users\liamt\AppData\Roaming\nushell\env.nu
+$nu.env-path
+cd C:\Users\liamt\AppData\Roaming\nushell
+ls
+hx env.nu
+$nu.config-path
+hx C:\Users\liamt\AppData\Roaming\nushell\config.nu
+starship
+starship init
+starship init nushell
+starship init nu
+ls
+cd Websites\
+ls
+cd beanie-app\
+Install-Script winfetch
+scoop install winfetch
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+C:\Users\liamt\.config\winfetch\config.p
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\.config\winfetch\config.ps1
+winfetch
+hx C:\Users\liamt\AppData\Roaming\nushell\config.nu
+cd C:\Users\liamt\AppData\Roaming\nushell
+hx env.nu
+cd C:\Users\liamt\AppData\Roaming\nushell
+hx config.nu
+cd C:\Users\liamt\AppData\Roaming\nushell
+hx config.nu
+winfetch --help
+winfetch --config
+hx C:\Users\liamt\.config\winfetch\config.ps1
+hx .
+cd Websites\
+ls
+cd beanie-app\
+hx.
+hx .
+'Say that we have a string and we want to find a specific word in that string' | Select-String 'string'
+Select-String
+grep
+wezterm
+wezterm --help
+weterm %HOME%
+ls %HOME%
+ls
+touch
+cd . > .wezterm.lua
+cd > . .wezterm.lua
+type nul > .wezterm.lua
+echo.> .wezterm.lua
+echo. .wezterm.lua
+wsl touch .wezterm.lua
+hz .wezterm.lua
+hx .wezterm.lua
+ls
+cd .glaze-wm\
+ls
+hz config.yaml
+hx config.yaml
+cd .glaze-wm\
+hx config.yaml
+ls
+cd C:\Users\liamt\AppData\Roaming\nushell
+hx config.nu
+cd $
+cd ~
+ls
+cd .glaze-wm\
+hx config.yaml
+ls
+cd Websites\
+ls
+cd Adir\
+ls
+cd ../
+winget
+winfetch
+cd ../
+cd .glaze-wm\
+ls
+cd ../
+cd .glaze-wm\
+ls
+set CGO_ENABLED=0
+$env:CGO_ENABLED = '0'
+go install -ldflags="-s -w" github.com/gokcehan/lf@latest
+winget install gokcehan.lf
+lf
+cd Websites\beanie-app\
+ls
+cd Websites\beanie-app\
+hx .
+ls
+cd src
+ls
+cd components\
+ls
+cd canvas
+ls
+wsl touch PixelsToKnit.jsx
+hx PixelsToKnit.jsx
+wsl --set-version openSUSE' 'Tumbleweed 1
+wsl --set-version openSUSETumbleweed 1
+wsl -l -v
+wsl --set-version openSUSE-Tumbleweed 1
+wsl
+wsl --set-version openSUSE-Tumbleweed 2
+scoop install himalaya
+himalaya
+himalaya --help
+himalaya -a
+himalaya -h
+himalaya -f
+himalaya -c
+hx C:\Users\liamt\AppData\Roaming\himalaya\config.toml
+himalaya
+hx C:\Users\liamt\AppData\Roaming\himalaya\config.toml
+himalaya
+hx C:\Users\liamt\AppData\Roaming\himalaya\config.toml
+himalaya
+himalaya -h
+himalaya accounts
+himalaya uninstall
+himalaya --uninstall
+scoop remove himalaya
+scoop uninstall himalaya
+scoop install himalaya
+himalaya
+himalaya -h
+himalaya accounts configure
+himalaya
+hx C:\Users\liamt\AppData\Roaming\himalaya\config.toml
+himalaya
+hx C:\Users\liamt\AppData\Roaming\himalaya\config.toml
+himalaya
+himalaya -h
+himalaya read
+himalaya
+himalya read 932
+himalaya read 932
+himalaya
+cd ../
+ls
+cd Downloads\
+ls
+npm install lotte-web
+npm install lottie-web
+npm install -g lottie-web
+cd web
+cd Websites\
+ls
+mkdir SVG
+cd SVG
+bcdedit /set hypervisorlaunchtype off
+cd web
+cd Websites\
+npm create t3-app@latest
+cd polythyhm
+cd polyrhythm\
+npm i threejs
+npm install three
+npm install @react-three/fiber
+npm install @react-three/drei
+npm install
+npm run dev
+hx .
+cd Websites\
+cd polyrhythm\
+ls
+npm run dev
+hx .env
+npm run dev
+hx .env
+cd Websites\
+cd polyrhythm\
+ls
+hx .
+ls
+cd src
+ls
+cd app
+ls
+cd _components\
+ls
+wsl touch canvas.tsx
+hx canvas.tsx
+cd we
+cd Websites\
+yarn create r3f-app next polyrhythm
+yarn dev
+cd polyrhythm\
+cd Websites\polyrhythm\
+ls
+hx .
+cd Websites\
+npm create cloudflare@latest design-battles -- --framework=hono
+npm install wrangler --save-dev
+wrangler pages dev design-battles
+wrangler
+cd Websites\
+wrangler
+npm create cloudflare@latest design-battles -- --framework=hono
+npx create-hwy@latest
+cd hwy 
+npm i
+cd Websites\hwy\
+hx .
+npm run dev
+hx .
+cd /
+ls
+cd Users\
+cd liamt\
+cd Documents\Websites\
+ls
+deno run -A npm:create-hono my-app
+irm https://deno.land/install.ps1 | iex
+deno
+deno run -A npm:create-hono my-app
+deno run -A npm:create-hono design-battles
+cd design-battles\
+den]
+deno run
+ls
+hx .
+curl -fsSL https://bun.sh/install | bash
+yarn install
+cd design-battles\
+hx .
+ls
+hx src\ .
+wrangler
+ls
+hx src\
+hx c.env
+ls
+hx src\
+ls
+lz
+lazygit
+git remote add origin https://github.com/liamtsang/design-battles.git
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+https
+http
+htpp put http://localhost:5173/upload/test "test"
+http put http://localhost:5173/upload/test "test"
+http put http://localhost:5173/upload/tt "test"
+http put http://localhost:5173/upload/test "test"
+lz
+lazygit
+cd Websites\
+cd design-battles\
+ls
+cd .
+cd ../
+cd design-battles\
+lz
+hx src\
+npm run deploy
+cd de
+cd design-battles\
+npm run deploy
+cd Websites\design-battles\
+wrangler
+irm https://deno.land/install.ps1 | iex
+deno
+deno run -A npm:create-hono my-app
+cd C:\Users\liamt\Documents\Websites\my-app
+lz
+lazygit
+cd ../
+deno run -A npm:create-hono design-battles-deno
+cd design-battles-deno\
+deno run --alow-net hello.ts
+deno run --allow-net hello.ts
+hx .
+deno run --allow-net
+cd Websites\design-battles\
+cd Websites\design-battles-deno\
+git remote add origin https://github.com/liamtsang/design-battles.git
+git branch -M deno
+lazygit
+lazygit.exe 
+rm -rf .git
+lazygit
+ls
+rmdir .git
+git init
+lazygit.exe 
+git remote add origin https://github.com/liamtsang/design-battles/tree/deno
+lazygit.exe 
+git remote add origin https://github.com/liamtsang/design-battles.git
+git remote remove origin
+git remote add origin https://github.com/liamtsang/design-battles.git
+lazygit.exe 
+git push -u origin main
+git push -u origin
+git push origin HEAD:deno
+git push origin HEAD:deno -f
+cd Websites\design-battles-deno\
+winget install ajeetdsouza.zoxide
+z
+zox
+zoxide
+zoxide init
+zoxide init NuShell
+zoxide init nushell
+z
+$nu.env-path
+hx C:\Users\liamt\AppData\Roaming\nushell\env.nu
+$nu.config-path
+hx C:\Users\liamt\AppData\Roaming\nushell\config.nu
+zoxide
+z
+ls
+z web deno
+z weights
+zoxide
+zoxide edit
+fzf
+winget install fzf
+z 
+z Websites
+cd Websites\design-battles-deno\
+ls
+cd Documents\Websites\
+z
+ls
+zoxide edit
+cd Documents\Websites\design-battles-deno\
+z
+z design
+hx .
+winget install deno
+deno upgrade
+hx .
+z
+ls
+cd AppData\
+ls
+cd Roaming\
+ls
+cd helix
+ls
+hx languages.toml
+z deno
+hz .
+hx .
+z languages
+z helix
+hx languages.toml
+z languages
+z deno
+hx .
+z deno
+deno run start
+hx .
+z deno
+git pull
+git add .
+git stash
+git pull
+deno run start
+deno task star
+z deno
+hx .
+cd `Websites\3D-Spatial-Audio - VR\`
+ls
+cd `Websites\3D-Spatial-Audio - VR\`
+hx .
+git add .
+git commit -m "feat: color changes & fixed sample rate"
+git push
+z deno
+hx .
+cd ~
+ls
+cd AppData\
+z helix
+ls
+hx config.toml
+z denop
+z deno
+deno task start
+deno upgrade
+wsl
+z deno
+hx .
+deployctl
+deno
+cd ../
+mkdir silverbullet
+cd silverbullet
+deno install -Arf https://deno.land/x/deploy/deployctl.ts
+deployctl deploy -p=your-project --entrypoint=https://silverbullet.md/silverbullet.js --include= --prod
+deployctl deploy -p=ltsb --entrypoint=https://silverbullet.md/silverbullet.js --include= --prod
+deno install -f --name silverbullet  --unstable-kv --unstable-worker-options -A https://get.silverbullet.md
+deployctl deploy -p=ltsb --entrypoint=https://silverbullet.md/silverbullet.js --include= --prod
+ls
+silverbullet
+silverbullet .
+deployctl deploy -p=ltsb --entrypoint=https://silverbullet.md/silverbullet.js --include= --prod
+deno deploy
+deployctl deploy -p=ltsb --include=--prod
+deployctl deploy -p=ltsb --entrypoint=https://get.silverbullet.md --include=--prod
+deployctl deploy -p=ltsb --entrypoint=https://get.silverbullet.md --prod
+z deno
+hx .
+cd /
+ls
+cd ~
+ls
+cd AppData\Local\
+ls
+cd ../
+ls
+cd Roaming\
+ls
+cd ~
+z glazewm
+glazewm --location
+glazewm -c
+cd AppData\Local
+cd Microsoft\WinGet\
+ls
+cd Packages\
+ls
+cd ../
+cd ./
+cd ~
+scoop --help
+scoop info glazewm
+scoop which glazewm
+ls
+cd .glaze-wm\
+ls
+hx config.yaml
+z deno
+glazewm 
+glazewm --help
+glazewm monitors
+hx .
+z helix
+hx .
+z deno
+hx .
+git add .
+git commit -m "fix: cookie auth callback crazy time"
+git push
