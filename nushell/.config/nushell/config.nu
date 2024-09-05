@@ -927,4 +927,5 @@ $env.config = {
 
 source ~/.zoxide.nu
 alias bat = batcat
+alias lz = lazygit
 $env.FZF_DEFAULT_OPTS = "--ansi --preview-window 'right:60%' --preview 'batcat --color=always --style=header,grid --line-range :300 {}'"
