@@ -11,7 +11,7 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 exec --no-startup-id nm-applet
-exec --no-startup-id picom --config ~/.config/picom/picom.conf
+exec --no-startup-id picom --config ~/.config/picom/picom.conf --experimental-backends -b
 exec --no-startup-id ~/.config/i3/default.sh
 exec --no-startup-id feh --bg-max ~/.dotfiles/__Images/bg/solarized/doro_sign_solarized.png --image-bg "#93a1a1"
 # exec --no-startup-id xrandr --output DP-2 --mode 2560x1440 -r 170.07
@@ -22,11 +22,11 @@ gaps inner 10px
 gaps top 0px
 
 # class                 border    bground   text    indicator child_border
-client.focused          #28282800 #28282800 #FFFFFF #002B36B0 #002B36B0
-client.focused_inactive #28282800 #28282800 #FFFFFF #002B36B0 #002B36B0 
-client.unfocused        #28282800 #28282800 #ADB8B8 #002B36B0 #002B36B0 
-client.urgent           #28282800 #28282800 #B7211F #002B36B0 #002B36B0 
-client.placeholder      #28282800 #28282800 #FFFFFF #002B36B0 #002B36B0 
+client.focused          #002B36B0 #002B36 #FFFFFF #002B36B0 #002B36B0
+client.focused_inactive #002B36B0 #282828 #FFFFFF #002B36B0 #002B36B0 
+client.unfocused        #002B36B0 #00141A #ADB8B8 #002B36B0 #002B36B0 
+client.urgent           #282828 #282828 #B7211F #002B36B0 #002B36B0 
+client.placeholder      #282828 #282828 #FFFFFF #002B36B0 #002B36B0 
 
 client.background       #FFFFFF
 
@@ -129,8 +129,8 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
+set $ws1 "2"
+set $ws2 "1"
 set $ws3 "3"
 set $ws4 "4"
 set $ws5 "5"
@@ -141,8 +141,8 @@ set $ws9 "9"
 set $ws10 "10"
 
 # switch to workspace
-bindsym $mod+1 workspace number $ws1
-bindsym $mod+2 workspace number $ws2
+bindsym $mod+2 workspace number $ws1
+bindsym $mod+1 workspace number $ws2
 bindsym $mod+3 workspace number $ws3
 bindsym $mod+4 workspace number $ws4
 bindsym $mod+5 workspace number $ws5
@@ -153,8 +153,8 @@ bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace number $ws1
-bindsym $mod+Shift+2 move container to workspace number $ws2
+bindsym $mod+Shift+1 move container to workspace number $ws2
+bindsym $mod+Shift+2 move container to workspace number $ws1
 bindsym $mod+Shift+3 move container to workspace number $ws3
 bindsym $mod+Shift+4 move container to workspace number $ws4
 bindsym $mod+Shift+5 move container to workspace number $ws5

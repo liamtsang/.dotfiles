@@ -101,6 +101,8 @@ path add /home/liamt/.cargo/bin
 path add /root/.local/bin
 path add /var/lib/flatpak/exports/share
 path add /home/liamt/.local/share/flatpak/exports/share
+path add /usr/local/go/bin
+path add /home/liamt/go/bin
 
 # To load from a custom file you can use:
 # source ($nu.default-config-dir | path join 'custom.nu')
