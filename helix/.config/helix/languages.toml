@@ -9,7 +9,7 @@ config = { max_completion_items = 10, snippets_first = false }
 name = "typescript"
 language-servers = [ "typescript-language-server" ]
 formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 4, unit = "\t" }
+indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 # [[language]]
@@ -27,28 +27,28 @@ auto-format = true
 name = "tsx"
 language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
 formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 4, unit = "\t" }
+indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
 name = "jsx"
 language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
 formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 4, unit = "\t" }
+indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
 name = "javascript"
 language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
 formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 4, unit = "\t" }
+indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
 name = "json"
 language-servers = [ "vscode-json-language-server" ]
 formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 4, unit = "\t" }
+indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
@@ -56,6 +56,11 @@ name = "fish"
 file-types = ["fish"]
 language-servers = ["fish"]
 auto-format = false
+
+[[language]]
+name = "go"
+indent = { tab-width = 2, unit = " " }
+auto-format = true
 
 [language-server.vscode-json-language-server.config]
 json = { validate = { enable = true }, format = { enable = true } }

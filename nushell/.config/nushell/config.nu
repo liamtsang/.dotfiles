@@ -39,11 +39,11 @@ let dark_theme = {
     shape_closure: green_bold
     shape_custom: green
     shape_datetime: cyan_bold
-    shape_directory: cyan
-    shape_external: cyan
+    shape_directory: green_bold
+    shape_external: green_bold
     shape_externalarg: green_bold
-    shape_external_resolved: light_yellow_bold
-    shape_filepath: cyan
+    shape_external_resolved: green_bold
+    shape_filepath: green_bold
     shape_flag: blue_bold
     shape_float: purple_bold
     # shapes are used to change the cli syntax highlighting
@@ -51,7 +51,7 @@ let dark_theme = {
     shape_glob_interpolation: cyan_bold
     shape_globpattern: cyan_bold
     shape_int: purple_bold
-    shape_internalcall: cyan_bold
+    shape_internalcall: green_bold
     shape_keyword: cyan_bold
     shape_list: cyan_bold
     shape_literal: blue
@@ -159,10 +159,10 @@ $env.config = {
     }
 
     table: {
-        mode: rounded # basic, compact, compact_double, light, thin, with_love, rounded, reinforced, heavy, none, other
-        index_mode: always # "always" show indexes, "never" show indexes, "auto" = show indexes when a table has "index" column
+        mode: none # basic, compact, compact_double, light, thin, with_love, rounded, reinforced, heavy, none, other
+        index_mode: auto # "always" show indexes, "never" show indexes, "auto" = show indexes when a table has "index" column
         show_empty: true # show 'empty list' and 'empty record' placeholders for command output
-        padding: { left: 1, right: 1 } # a left right padding of each column in a table
+        padding: { left: 2, right: 1 } # a left right padding of each column in a table
         trim: {
             methodology: wrapping # wrapping or truncating
             wrapping_try_keep_words: true # A strategy used by the 'wrapping' methodology
@@ -262,7 +262,7 @@ $env.config = {
         reset_application_mode: true
     }
     render_right_prompt_on_last_line: false # true or false to enable or disable right prompt to be rendered on last line of the prompt.
-    use_kitty_protocol: false # enables keyboard enhancement protocol implemented by kitty console, only if your terminal support this.
+    use_kitty_protocol: true # enables keyboard enhancement protocol implemented by kitty console, only if your terminal support this.
     highlight_resolved_externals: false # true enables highlighting of external commands in the repl resolved by which.
     recursion_limit: 50 # the maximum number of times nushell allows recursion before stopping it
 
@@ -930,3 +930,5 @@ alias bat = batcat
 alias lz = lazygit
 alias steam = flatpak run com.valvesoftware.Steam
 $env.FZF_DEFAULT_OPTS = "--ansi --preview-window 'right:60%' --preview 'batcat --color=always --style=header,grid --line-range :300 {}'"
+
+use ~/.cache/starship/init.nu

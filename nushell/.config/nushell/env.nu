@@ -103,6 +103,9 @@ path add /var/lib/flatpak/exports/share
 path add /home/liamt/.local/share/flatpak/exports/share
 path add /usr/local/go/bin
 path add /home/liamt/go/bin
+path add ~/.bun/bin
+path add /opt/thunderbird
+path add /home/liamt/.fly/bin/flyctl
 
 # To load from a custom file you can use:
 # source ($nu.default-config-dir | path join 'custom.nu')
@@ -143,3 +146,6 @@ zoxide init nushell | save -f ~/.zoxide.nu
 #         )
 #     }
 # }}
+
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu

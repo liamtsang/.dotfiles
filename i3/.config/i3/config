@@ -11,9 +11,11 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 exec --no-startup-id nm-applet
-exec --no-startup-id picom --config ~/.config/picom/picom.conf --experimental-backends -b
+# exec --no-startup-id picom --config ~/.config/picom/picom.conf --experimental-backends -b
 exec --no-startup-id ~/.config/i3/default.sh
 exec --no-startup-id feh --bg-max ~/.dotfiles/__Images/bg/solarized/doro_sign_solarized.png --image-bg "#93a1a1"
+exec thunderbird
+exec syncthing
 # exec --no-startup-id xrandr --output DP-2 --mode 2560x1440 -r 170.07
 # exec --no-startup-id xrandr --output HDMI-0 --left-of DP-2 --rotate left
 
