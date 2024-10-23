@@ -5,49 +5,37 @@
 command = "simple-completion-language-server"
 config = { max_completion_items = 10, snippets_first = false }
 
+[language-server.biome]
+command = "biome"
+args = ["lsp-proxy"]
+
 [[language]]
 name = "typescript"
-language-servers = [ "typescript-language-server" ]
-formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
 indent = { tab-width = 2, unit = " " }
 auto-format = true
-
-# [[language]]
-# name = "typescript"
-# language-id = "typescript"
-# scope = "source.ts"
-# injection-regex = "^(ts|typescript)$"
-# file-types = ["ts"]
-# shebangs = ["deno"]
-# roots = ["deno.json", "deno.jsonc", "package.json"]
-# auto-format = true
-# language-servers = ["deno-lsp"]
 
 [[language]]
 name = "tsx"
-language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
-formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
-indent = { tab-width = 2, unit = " " }
-auto-format = true
-
-[[language]]
-name = "jsx"
-language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
-formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
 indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
 name = "javascript"
-language-servers = [ "typescript-language-server", "tailwindcss-react", "eslint", "emmet-ls", "scls", "graphql"]
-formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
+indent = { tab-width = 2, unit = " " }
+auto-format = true
+
+[[language]]
+name = "jsx"
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
 indent = { tab-width = 2, unit = " " }
 auto-format = true
 
 [[language]]
 name = "json"
-language-servers = [ "vscode-json-language-server" ]
-formatter = { command = 'npx', args = ["prettier", "--config", ".prettierrc", "--parser", "typescript"] }
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
 indent = { tab-width = 2, unit = " " }
 auto-format = true
 

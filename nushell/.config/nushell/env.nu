@@ -105,7 +105,9 @@ path add /usr/local/go/bin
 path add /home/liamt/go/bin
 path add ~/.bun/bin
 path add /opt/thunderbird
-path add /home/liamt/.fly/bin/flyctl
+path add /home/liamt/.fly/bin
+path add /home/liamt/.local/share/pnpm
+path add /home/liamt/.local/share/fnm
 
 # To load from a custom file you can use:
 # source ($nu.default-config-dir | path join 'custom.nu')
