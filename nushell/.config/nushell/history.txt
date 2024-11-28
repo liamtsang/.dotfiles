@@ -207,3 +207,5 @@ z dot
 apt list --installed
 aptitude search '~i!~M'
 hx install.sh
+lz
+hx install.sh

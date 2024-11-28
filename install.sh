@@ -1,4 +1,4 @@
-sudo apt install i3 kitty stow git gh kitty picom curl nodejs npm bat dmenu &&
+sudo apt install i3 kitty stow git gh kitty picom curl nodejs npm bat dmenu feh &&
 cd ~ &&
 git clone https://github.com/liamtsang/.dotfiles &&
 curl -L https://github.com/nushell/nushell/releases/download/0.100.0/nu-0.100.0-x86_64-unknown-linux-gnu.tar.gz -o nu.tar.gz &&
