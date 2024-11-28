@@ -1,2 +1,209 @@
 rm nushell/.config/nushell/history.txt
 lz
+sudo apt install batcat
+sudo apt install bat
+ls
+l
+sls
+ls
+nu plugin
+h
+cd .dotfiles/
+hx install.sh
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+z
+zoxidei
+zoxide
+z
+zoxide init
+zoxide init nushell
+hx nushell/.config/nushell/config.nu
+plugin add
+hx nushell/.config/nushell/env.nu
+firefox 
+hx nushell/.config/nushell/config.nu
+plugin add '/home/liamt/.cargo/bin/nu_plugin_query'
+hx nushell/.config/nushell/env.nu
+[ nu_plugin_inc<\n>  nu_plugin_polars<\n>  nu_plugin_gstat<\n>  nu_plugin_formats<\n>  nu_plugin_query<\n>] | each { cargo install $in --locked } | ignore
+sudo apt install cargo
+curl -sS https://starship.rs/install.sh | sh
+[ nu_plugin_inc<\n>  nu_plugin_polars<\n>  nu_plugin_gstat<\n>  nu_plugin_formats<\n>  nu_plugin_query<\n>] | each { cargo install $in --locked } | ignore
+ls
+cd .dotfiles/
+hx nushell/.config/nushell/config.nu
+ls
+plugin add '/home/liamt/.cargo/bin/nu_plugin_query'
+hx nushell/.config/nushell/config.nu
+ls
+mkdir Websites
+gh
+sudo apt install blueman
+sudo apt install pcmanfm
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo hx /etc/apt/sources.list
+apt update
+sudo apt update
+sudo apt install steam-installer
+apt install mesa-vulkan-drivers libglx-mesa0:i386 mesa-vulkan-drivers:i386 libgl1-mesa-dri:i386
+sudo apt install mesa-vulkan-drivers libglx-mesa0:i386 mesa-vulkan-drivers:i386 libgl1-mesa-dri:i386
+steam
+gh auth login
+git
+ls
+npm
+ls
+cd .dotfiles/
+ls
+cd Backup/
+ls
+sudo cp BerkeleyMonoNerdFont-Regular.otf /usr/local/share/fonts/
+lsl
+ls
+cd .dotfiles/
+ls
+hx i3/
+hx i3/.config/i3/config
+ls
+cd i3/.config/i3/
+ls
+sh default.sh
+cd ../
+ls
+cd ../
+l;s
+ls
+cd ../
+ls
+hx i3status/
+hx i3status/.config/i3status/config
+gh auth login
+sudo apt install pavucontrol
+z top
+cd Websites/
+ls
+git clone https://github.com/topimageservices/top-image-services
+cd top-image-services/
+z top
+cd ../
+ls
+z dot
+hx nushell/.config/nushell/plugin.msgpackz
+rm nushell/.config/nushell/plugin.msgpackz
+cd 
+ls
+cd Websites/
+ls
+cd top-image-services/
+npm install
+touch .env
+hx .env
+npm run dev
+ls
+.enmv
+.env
+ls
+cp .env ../.env
+git checkout liam-dev
+git pull
+npm install
+ls
+cd Websites/
+cd top
+cd top-image-services/
+z top
+npx prisma studio
+hx .
+npx prisma migrate status
+hx .
+hx .env
+npx prisma migrate status
+npx prisma studio
+npx prisma migrate dev --name add_masonry_grid --create-only
+hx .env
+npx prisma migrate dev --name add_masonry_grid
+curl -L https://github.com/biomejs/biome/releases/download/cli%2Fv<version>/biome-linux-x64 -o biome
+ls
+chmod +x biome
+ls
+./biome
+rm biome
+ls
+curl -L https://github.com/biomejs/biome/releases/download/cli%2Fv1.9.4/biome-linux-x64 -o biome
+chmod +x biome
+./biome
+mv biome /usr/local/bin/biome
+sudo mv biome /usr/local/bin/biome
+biome
+npm install -g typescript-language-server typescript
+sudo npm install -g typescript-language-server typescript
+z top
+ls
+cd src/
+ls
+cd api
+ls
+cd ../
+ls
+cd app
+ls
+cd api
+ls
+mkdir masonry-grid
+cd masonry-grid/
+ls
+touch route.ts
+hx route.ts
+ls
+npm run dev
+hx .
+npx prisma studio
+hx route.ts
+ls
+sudo shutdown
+sudo apt install feh
+sudo install -d -m 0755 /etc/apt/keyrings 
+wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null 
+echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | sudo tee -a /etc/apt/sources.list.d/mozilla.list > /dev/null 
+curl -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
+ls
+cd Downloads/
+dpkg -i slack-desktop-4.41.98-amd64.deb
+sudo dpkg -i slack-desktop-4.41.98-amd64.deb
+z top
+npm run dev
+npm install swapy
+hx .
+lz
+npm remove swapy
+lz
+git user
+git --help
+git config --global user.email lt1800@nyu.edu
+git config --global user.name liamtsang
+lz
+ls
+npm run dev
+hx .
+lz
+hx .
+lz
+ls
+z top
+npm run dev
+lz
+npm run dev
+lz
+hx .
+npm run dev
+lz
+z top
+lz
+z top
+lz
+z dot
+apt list --installed
+aptitude search '~i!~M'
+hx install.sh
