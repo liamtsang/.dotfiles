@@ -209,3 +209,3836 @@ aptitude search '~i!~M'
 hx install.sh
 lz
 hx install.sh
+lz
+hx install.sh
+npm run dev
+lz
+ls
+cd Scripts
+ls
+touch test.ts
+npx tsc test.ts
+npx tsx test.ts
+hx test.ts
+npx tsx test.ts
+hx test.ts
+npx tsx test.ts
+hx test.ts
+npx tsx test.ts
+hx test.ts
+npx tsx test.ts
+cd Scripts
+npx tsx test.ts
+ls
+mkdir advent-of-code
+mv test.ts advent-of-code/day-1.ts
+ls
+cd advent-of-code/
+ls
+ll
+la
+ls -a
+ls
+rm >
+ls
+cd Websites/
+ls
+cd top-image-services/
+ls
+bat
+z top
+bat .env
+cat .ev
+cat .env
+hx .
+lz
+npm run dev
+ls
+cd Websites/
+ls
+git clone https://github.com/liamtsang/tiptop-dashboard.git
+ls
+cd tiptop-dashboard/
+ls
+npm install
+npm run dev
+z dot
+hx i3/.config/i3/config
+hx i3/.config/i3/default.sh
+hx i3/.config/i3/config
+ls
+z top
+ls
+cd Downloads/
+ls
+sudo dpkg -i zoom_amd64.deb
+sudo dpkg -i zoom_amd64 `zoom_amd64(1).deb`
+ls
+sudo dpkg -i zoom_amd64 `zoom_amd64(1).deb`
+sudo dpkg -i zoom_amd64 zoom_amd64(1).deb
+sudo dpkg -i `zoom_amd64(1).deb`
+sudo apt install libxcb-xtest0
+sudo dpkg -i zoom_amd64.devb
+sudo dpkg -i zoom_amd64.deb
+z top
+npx prisma studio
+ls
+cd Scripts/advent-of-code/
+ls
+touch day-2.ts
+z ad
+ls
+npx tsx day-2.ts
+hx day-2.ts
+npx tsx day-2.ts
+gh repo create
+ls
+git init
+git config --global init.defaultBranch master
+git config --global init.defaultBranch main
+git branch -m main
+gh repo create
+lz
+hostname
+ip
+hostname -I
+hx .
+lz
+z down
+sudo dpkg -i zoom_amd64.deb
+sudo dpkg -i discord-0.0.76.deb
+fkill
+killal
+killall
+killall firefox-nighlty
+killall firefox-nightly
+killall firefox
+sudo npm install -g fkill
+fkill
+npx fkill
+sudo npx fkill
+fkill
+sudo npm install --global fkill-cli
+fkill
+nmap -sn 10.10.10.0/24
+aptitude search '~i!~M'rp
+arp
+for ip in 192.168.0.{1..254}; do<\n>  ping -c 1 -W 1 $ip | grep "64 bytes" &<\n>done
+sudo apt-get install nmap
+sudo apt install nmap
+nmap
+sudo apt install arp-scan
+sudo apt get arp-scan
+sudo apt install arp-scan
+sudo apt remove zoom
+man apt
+sudo apt autoremove
+sudo dpkg -P zoom
+sudo dpkg --remove --force-remove-reinstreq zoom
+sudo apt install arp-scan
+sudo arp-scan --interface=eth0 --localnet
+sudo arp-scan --interface=eth1 --localnet
+sudo arp-scan --interface=eth2 --localnet
+ifconfig
+sudo apt install ifconfig
+sudo arp-scan --interface=wlan0 --localnet
+sudo apt install nmap
+nmap -sn 10.10.10.0/24
+arp -e
+arp-scan -e
+nmap 192.168.1.0/24
+ssh 192.168.1.140:22
+ssh 192.168.1.140
+ls
+nmap 192.168.1.0/24
+ssh 192.168.1.220
+nmap 192.168.1.0/24
+curl -k https://192.168.1.98
+curl -k https://192.168.1.98:443
+curl -k https://192.168.1.98:
+curl -k https://192.168.1.
+curl -k https://192.168.1.98
+ls
+cd Scripts/advent-of-code/
+ls
+touch day-3.ts
+ls
+rm day-3.ts
+z ad
+npx tsx day-3.ts
+hx day-3.ts
+cd Websites/
+npm create hono@latest secret-santa
+cd secret-santa/
+ls
+cd ../
+rm -rf secret-santa/
+npm create hono@latest mystery-maccabee
+cd mystery-maccabee/
+ls
+cd src/
+hx .
+ls
+touch participant.html
+hx participant.html
+npx wrangler kv:namespace create SECRET_SANTA
+hx .
+cd ..
+hx .
+hx wrangler.toml
+npx wrangler deploy
+hx .
+hx wrangler.toml
+npm run deploy
+hx src/
+touch src/admin.html
+hx src/admin.html
+hx src/
+npm run deploy
+npm run dev
+hx src/index.ts
+npm run dev
+hx src/index.ts
+npm install jose
+npm run dev
+hx src/index.ts
+npm run dev
+npm run deploy
+npm run dev
+hx src/index.ts
+npm run dev
+hx src/index.ts
+npm run dev
+npm run deploy
+z top
+ls
+cd Websites/
+ls
+touch blackmrkt
+ls
+rm blackmrkt
+npm create vite@latest --template react-swc-ts
+ls
+mv react-swc-ts/ blackmrkt
+ls
+cd blackmrkt/
+ls
+npm install
+z black
+hx .
+ls
+git init
+hx .
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init -p
+hx tailwind.config.js
+npm run dev
+z black
+npm install motion
+hx tailwind.config.js
+npm rund ev
+npm run dev
+ls
+z top
+ls
+lz
+ls
+z top
+lz
+ls
+cd ..
+ls
+cd blackmrkt/
+git remote add origin https://github.com/liamtsang/blackmrkt-survey.git
+git branch -M main
+git commit .
+git add .
+git commit -m "init"
+git push -u origin main
+ls
+cd Downloads/
+ls
+dpkg -i `zoom_amd64(1).deb`
+sudo dpkg -i `zoom_amd64(1).deb`
+ls
+cd Websites/top-image-services/
+lz
+z top
+npm run dev
+ls
+cd Websites/top-image-services/
+hx .
+lz
+ls
+cd Websites/
+ls
+cd blackmrkt/
+ls
+cd ../
+ls
+cd blackmrkt/
+ls
+git checkout main
+git pull
+git checkout main
+git pull
+git pull.rebase false
+git config pull.rebase flase
+git config pull.rebase false
+git pull
+git config pull.ff only
+git pull
+git pull.rebase true
+git config pull.rebase true
+git pull
+git config pull.ff false
+git pull
+git checkout main
+git pull
+ls
+git checkout old
+git merge -s ours main
+git merge --allow-unrelated-histories -s ours main
+git checkout old
+git merge main
+ls
+git checkout main
+ls
+https://top-image-services-git-liam-dev-topimageservices-projects.vercel.app/
+git checkout old
+git checkout -b main
+git push -u origin main
+git pull
+ls
+cd ..
+rm -rf blackmrkt/
+ls
+git clone https://github.com/liamtsang/blackmrkt-survey.git
+ls
+cd blackmrkt-survey/
+ls
+cd Websites/top-image-services/
+lz
+ls
+z top
+ifocnifg
+ifconfig
+lp a
+hostname -I
+npm run dev
+ls
+cd Websites/blackmrkt-survey/
+ls
+lz
+ls
+hx .
+ls
+cd public
+ls
+rm -rf geist
+ls
+cd ../
+lz
+ls
+hx .
+ls
+cd top
+z top
+hx .
+lz
+ls
+z top
+ls
+lz
+ls
+z top
+npm run dev
+lz
+hx .
+lz
+hx .
+lz
+ls
+cd Websites/e
+cd Websites/
+ls
+cd blackmrkt-survey/
+lz
+ls
+git pull
+lz
+npm run dev
+pnpm run dev
+sudo npm run dev
+npm install -g pnpm
+sudo npm install -g pnpm
+pnpm run dev
+pnpm install
+z black
+sudo pnpm run dev
+pnpm install @astrojs/react
+pnpm run dev
+sudo pnpm run dev
+pnpm install
+pnpm install @astrojs/react
+pnpm run dev
+sudo pnpm run dev
+pnpm install react
+pnpm run dev
+sudo pnpm run dev
+pnpm add @astrojs/react
+sudo pnpm run dev
+pnpm add react react-dom
+sudo pnpm run dev
+pnpm astro add react
+hx .
+ls
+cd src
+ls
+cd components/
+ls
+touch survey.jsx
+hx survey.jsx
+cd ../../
+ls
+sudo pnpm run dev
+ls
+cd src/
+ls
+cd components/
+ls
+rm Welcome.astro
+cd ../../
+ls
+cd Websites/blackmrkt-survey/
+ls
+npm run dev
+ls
+cd Websites/blackmrkt-survey/
+z black
+npm install motion
+pnpm install motion
+ls
+cd Websites/top-image-services/
+ls
+ipconfig
+ip
+ip -l
+ip -a
+ip -I
+ip -i
+hostname
+hostname -I
+z to
+z top
+lz
+hx .
+npm run dev
+z top
+hx .
+lz
+ls
+z top
+npm run dev
+z black
+ls
+z black
+hx .
+sudo pnpm run dev
+hx .
+lz
+z top
+lz
+z top
+npm run dev
+hx .
+lz
+hx .
+lz
+z top
+lz
+z top
+lz
+z top
+lz
+git checkout main
+lz
+npm run dev
+npm install --include=optional sharp
+z top
+npm run dev
+npx prisma studio
+z black
+hx .
+lz
+z top
+npm run dev
+hx .
+lz
+hx .
+lz
+hx .
+lz
+z to
+lz
+z top
+z down
+ls
+sudo dpkg -i upwork_5.8.0.35_amd64.deb
+cd ../
+z top
+hx .
+lz
+sudo apt install google-chrome
+sudo apt install chrome
+z down
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+cd ../
+ls
+z Websites/
+git clone https://github.com/eliasgrey9/TumblerTest.git
+ls
+cd TumblerTest/
+ls
+npm install
+npm run dev
+npm run
+npm run start
+npm run build
+npm run start
+npm run 
+ls
+cd ../
+rm -rf TumblerTest/
+git clone https://github.com/eliasgrey9/TumblerTest.git
+ls
+cd TumblerTest/
+ls
+pnpm install
+ls
+cd Websites/TumblerTest/
+ls
+hx .
+pnpm run
+pnpm run test
+pnpm run
+pnpm run build
+sudo pnpm run build
+pnpm install -g serve
+sudo npm install -g server
+sudo npm install -g serve
+serve -s build
+sudo pnpm run start
+hx ..
+pnpm run start
+hx .
+sudo pnpm run start
+serve -s build
+pnpm run start
+pnpm install @craco/craco
+touch craco.config.js
+hx craco.config.js
+hx package.json
+sudo pnpm run start
+ls
+hx package.json
+sudo pnpm run start
+hx .
+cd ../
+rm -rf TumblerTest/
+sudo rm -rf TumblerTest/
+git clone https://github.com/eliasgrey9/TumblerTest.git
+cd TumblerTest/
+ls
+pnpm install
+sudo pnpm run start
+pnpm install suspend-react
+z tum
+hx server.js
+npm install express --save-dev
+sudo npm install express --save-dev
+npm install express
+sudo pnpm install express --save-dev
+sudo pnpm install express
+pnpm install
+sudo pnpm install express
+ls
+sudo rm -rf node_modules/
+pnpm install
+pnpm install express
+hx package.json
+hx .
+pnpm install cors
+npm run start-server
+hx .
+:wq
+cd ../
+mv TumblerTest/ TumblerTest-renamed/
+git clone https://github.com/eliasgrey9/TumblerTest.git
+ls
+cd TumblerTest/
+pnpm install
+pnpm run dev
+z t
+z tum
+ls
+cd ../
+ls
+cd TumblerTest-renamed/
+ls
+z tumre
+z tum-re
+cd Websites/TumblerTest-renamed/
+pnpm run dev
+pnpm run start
+z ren
+hx .
+lz
+hx .
+lz
+sudo apt install obs
+sudo apt install obs-studio
+python
+z ren
+hx .
+lz
+git remote add fork https://github.com/liamtsang/TumblerTest.git
+git remote -v
+git push fork main
+ping github.com
+git push fork main
+hx .
+lz
+git add .
+git commit -m "reverted server"
+git push fork main
+z black
+lz
+z black
+sudo pbpm run dev
+z black
+hx .
+pnpm astro add cloudflare
+lz
+pnpm run
+hx .
+lz
+hx .
+cd ../
+npm create cloudflare@latest -- my-astro-app --framework=astro
+npm create cloudflare@latest -- blackmrkt-cloudflare --framework=astro
+ls
+cd blackmrkt-cloudflare/
+npm run astro add cloudflare
+npm
+npm run dev
+npx astro add react
+npx astro add motion
+npm install motion
+npm install
+sudo pnpm run dev
+cd ../
+cd blackmrkt-cloudflare/
+hx .
+npx astro add tailwind
+npm run dev
+npm run deploy
+cd ../
+ls
+rm -rf blackmrkt-cloudflare/
+npm create cloudflare@latest -- --template https://github.com/flarelabs-net/workers-next
+ls
+cd blackmrkt-next/
+ls
+npm run dev
+lsd
+ls
+hx .
+git init
+ls
+hx .
+:q
+qqq
+cd
+z black
+hx .
+npm install motion
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init -p
+hx .
+z next
+hx .
+npm install
+npm run dev
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+nvm 
+nvm
+path add "$HOME/.nvm"
+nvm
+path add ~/.nvm
+nvm
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+~/.nvm/nvm.sh
+~/.nvm/nvm.sh --version
+npm cache clean -f
+sudo npm install -g n
+sudo n lts
+sudo n
+npm
+npm --version
+npm run dev
+npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run dev
+hx .
+npm run deploy
+hx .
+npm run deploy
+ls
+cd src/app/
+ls
+mv page.tsx page.jsx
+mv page.jsx page.tsx
+npm run dev
+hx .
+ls
+cd ../
+ls
+mkdir utils
+cd utils/
+ls
+touch types.ts
+hx .
+z next
+npm run build
+npm run dev
+npm run build
+npm run serve
+npm run
+npm run preview
+npm run deploy
+lz
+git remote add origin https://github.com/liamtsang/blackmrkt-survey-next.git<\n>git branch -M main<\n>git push -u origin main
+git remote add origin https://github.com/liamtsang/blackmrkt-survey-next.git
+git branch -M main
+git add .
+git commit -m "init types"
+git push -u origin main
+z next
+ls
+z next
+npm run dev
+hx .
+z down
+dpkg -i discord-0.0.78.deb
+sudo dpkg -i discord-0.0.78.deb
+z next
+sudo apt install libgtk-4-dev libadwaita-1-dev git<\n>
+zed
+ls
+rm -rf `2024-12-19 21-47-44.mp4`
+ls
+cd Websites/
+ls
+cd blackmrkt-next/
+z black
+hx .
+sudo apt update
+sudo apt install libc6-i386
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install libgl1-mesa-dri:i386 libgl1:i386 
+sudo apt remove steam
+steam
+whereis steam
+sudo apt remove steam
+sudo apt remove steam
+sudo dpkg --remove steam
+sudo apt purge steam
+sudo apt purge --autoremove steam
+wheris steam
+whereis steam
+ls
+cd /usr/games
+ls
+rm -rf steam
+sudo rm -rf steam
+ls
+cd ~/.local/share/steam
+cd ~/.locl
+cd ~/.local
+ls
+cd share
+ls
+cd ../
+ls
+cd ../
+cd .cache/
+ls
+dpkg
+snap
+sudo apt remove steam-installer
+sudo apt install flatpak
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+npm run dev
+flatpak install flathub com.valvesoftware.Steam
+lz
+z black
+hx .
+z black
+cd app
+cd src/app/
+ls
+touch questions.tsx
+ls
+touch questions_json.ts
+ls
+z black
+stea
+z black
+lz
+git commit --amend
+git commit --amend --no-edit --date="2025.01.01 12:00"
+z
+git push
+z black
+git pusg
+git push
+git push --force
+steam
+ls
+z black
+ls
+cd Websites/
+ls
+mkdir genuary
+cd genuary/
+ls
+touch index.html
+z gen
+hx .
+ls
+touch main.js
+hx .
+npm install three
+hx .
+npm install --save three
+serve 
+npm install --save vite
+hx .
+npx vite
+z black
+hx
+cd src/
+ls
+cd app
+ls
+touch ScrambleText.tsx
+z black
+lz
+hx ScrambleText.tsx
+lz
+npx wrangler deploy
+npm run deploy
+cd ../
+ls
+lz
+npm run deploy
+hx .
+hx .
+npm run deploy
+npm run dev
+npm run deploy
+z black
+z black 
+stea,
+npm run dev
+cd ../
+ls
+cd tiptop-dashboard/
+ls
+source /etc/os-release<\n>GHOSTTY_DEB_URL=$(<\n>   curl -s https://api.github.com/repos/mkasberg/ghostty-ubuntu/releases/latest | \<\n>   grep -oP "https://github.com/mkasberg/ghostty-ubuntu/releases/download/[^\s/]+/ghostty_[^\s/_]+_amd64_${VERSION_ID}.deb"<\n>)<\n>GHOSTTY_DEB_FILE=$(basename "$GHOSTTY_DEB_URL")<\n>curl -LO "$GHOSTTY_DEB_URL"<\n>sudo dpkg -i "$GHOSTTY_DEB_FILE"<\n>rm "$GHOSTTY_DEB_FILE"
+z down
+sudo dpkg -i ghostty_1.0.0-1_amd64.deb
+ghostty 
+snap install zig --classic --beta<\n>
+snap
+sudo apt install snapd
+sudo snap install snapd
+snap install zig --classic --beta<\n>
+sudo snap install zig --classic --beta<\n>
+sudo apt install libgtk-4-dev libadwaita-1-dev git<\n>
+git clone https://github.com/mitchellh/ghostty.git<\n>cd ghostty<\n>zig build -p $HOME/.local -Doptimize=ReleaseFast<\n>
+git clone https://github.com/mitchellh/ghostty.git
+cd ghostty
+zig build -p $HOME/.local -Doptimize=ReleaseFast
+zig build -p ~/.local -Doptimize=ReleaseFast
+zig
+snap run zig
+snap run zig build -p ~/.local -Doptimize=ReleaseFast
+;s
+ls
+hx .
+ls
+l
+ls
+hx .
+ls
+ghostty +list-themes<\n>
+ls
+z top
+ls
+z tip
+ls
+ff
+ls
+z 
+ls
+z dot
+hx .
+ls
+z tip
+ls
+cd components/
+ls
+cd ui
+ls
+cd ../
+ls
+cd ui
+ls
+cd ../
+hx .
+touch title-nav.tsx
+hx .
+z tip
+npx shadcn@latest add sidebar-01
+s
+ls
+rm -rf app/dashboard/
+ls
+npm install --save-dev mini-css-extract-plugin
+npm run dev
+hx .
+lz
+hx .
+cd ../
+hx .
+npm run
+npm run build:worker
+z black
+sudo iwilist
+sudo iwlist
+iwconfig
+iw
+nm-applet
+z black
+z blac
+sudo dmidecode -t 2
+sudo dmidecode -t 0
+cli
+wlcli
+nmcli
+ls
+cd Websites/
+ls
+cd Websites/
+ls
+cd blackmrkt-next/
+ls
+z black
+l
+ls
+cd src
+ls
+cd app
+ls
+cd ../
+ls
+cd utils
+ls
+cd ../
+ls
+cd app
+ls
+touch SurveyContext.tsx
+hx .
+z black
+cd app
+ls
+cd src/
+ls
+cd app
+ls
+touch questions_loader.ts
+z black
+npm run dev
+lz
+z black
+ls
+cd src/
+ls
+cd app/
+ls
+s:q
+touch actions.ts
+hx .
+npx wrangler types --experimental-include-runtime
+npm run
+npm run preview
+hx .
+cd ../
+z black
+npm run preview
+npm run dev
+npm run preview
+nxp wrangler
+npx wrangler
+npx wrangler d1
+npx wrangler d1 list
+npx wrangler d1 export blackmrkt-survey-results --remote -output=./database.sql
+npx wrangler d1 export blackmrkt-survey-results --remote --output=./database.sql
+npx wrangler d1 export "blackmrkt-survey-results" --remote --output=./database.sql
+ls
+npx wrangler deploy
+hx .
+npx wrangler deploy
+npm run preview
+hx .
+npm run preview
+npm run deploy
+z black
+ls
+z black
+npm run start
+hx .
+ls
+cd src
+ls
+cd app
+ls
+mkdir admin
+cd admin
+ls
+touch page.tsx
+cd ../../
+l
+cd ../
+npm run dev
+npm run preview
+npx wrangler dev --remote
+npm run build
+npm run
+npm run preview
+wrangler d1 download blackmrkt-survey-answers
+npx wrangler d1 download blackmrkt-survey-answers
+npx wrangler d1 export blackmrkt-survey-answers
+npx wrangler d1 export blackmrkt-survey-answers --output=./database.sql
+npx wrangler d1 export blackmrkt-survey-answers --output=./database.sql --remote
+npx wrangler d1 export blackmrkt-survey-answers --output=./database.sql --local
+npx wrangler d1 export blackmrkt-survey-results --output=./database.sql --local
+npx wrangler d1 export blackmrkt-survey-results --output=./database.sql --remote
+ls
+bat ./database.sql
+wrangler d1 execute blackmrkt-survey-results --local --file=./database.sql
+npx wrangler d1 execute blackmrkt-survey-results --local --file=./database.sql
+npm run preview
+npm run 
+npm run preview
+z black
+ls
+z black
+hx .
+lz
+hx .
+lz
+z black
+hx .
+cd src
+ls
+cd app
+ls
+cd admin
+ls
+mkdir [uuid]
+ls
+cd uuid
+cd '[uuid]/'
+ls
+touch page.tsx
+cd ../
+hx .
+cd ../../
+cd ../
+hx .
+npm run preview
+cd ../
+npm run preview
+z black
+npm run preview
+lz
+npm run preview
+lz
+npm run preview
+lz
+npm run deploy
+lz
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+caffeine
+sudo apt install caffeinate
+sudo apt install caffine
+sudo apt install caffeine
+z black
+stema
+docker
+sudo apt update
+sudo apt ugrade
+sudo apt upgrade
+sudo apt install docker.io
+docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672 -p 5672:5672  \<\n>    -e RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS='-rabbitmq_stream advertised_host localhost' \<\n>    rabbitmq:3.13    
+docker
+docker sh
+docker ps
+docker start
+docker ls
+docker --help
+docker ps -a
+docker ps --al
+docker ps -all
+docker ps -ls
+docker ps --all
+docker exec rabbitmq rabbitmq-plugins enable rabbitmq_stream rabbitmq_stream_management 
+docker ps
+ls
+cd Websites/
+ls
+mkdir xlist
+ls
+cd xlist/
+npm init
+npm install rabbitmq-stream-js-client
+touch receive.js send.js
+ls
+z xlist
+npm run receive.js
+npm run receive
+hx .
+hx package.json
+z xlist
+npm run send
+z xlist
+npm run receive
+npm run receive
+z xlist
+ls
+ls -a
+touch .gitignore
+hx .
+hx .gitignore
+git init
+hx .
+rm receive.js
+rm send.js
+ls
+touch consumer.js
+touch backend.js
+hx .
+npm install amqplib
+z xlist
+ls
+./backend.js
+hx .
+npm run send
+npm run receive
+z xlist
+z 
+z xlist
+npm run sned
+npm run send
+npm run receive
+npm run receive
+npm run sendm run
+npm run send
+hx .x .
+hx .
+hx .
+npm run send
+./backend.js
+chmod +x ./backend.js
+./backend.js
+./backend.js First message
+sudo ./backend.js First message
+hx .
+sudo ./backend.js First message
+hx .
+node ./backend.js First mesaage..
+z xlist
+node ./backend.js First message.
+node ./backend.js Second message..
+node ./backend.js Second message...
+node ./backend.js Second message.....
+node ./backend.js Second message......
+node ./backend.js Second message........
+node ./backend.js Second message.......
+npm run receive
+npm run receive
+node ./backend.js Second message.......
+npm run receive
+node ./backend.js Second message.......
+touch streamReceiever.js
+hx .
+z xlist
+node ./streamReceiever.js
+npm run receive
+node ./backend.js Second message.......
+npm r
+npm run receive
+node ./backend.js {time: 1, uuid: test}
+npm run receive
+node ./backend.js {<\n>  "time": 1,<\n>  "uuid": "abc-3as"<\n>}
+node ./backend.js {"time": 1,"uuid": "abc-3as"}
+npm run receive
+node ./backend.js
+npm run receive
+hx ./
+touch grailedAutomation.js
+z xlist
+npm i playwright puppeteer-extra
+hx .
+npm run receive
+hx .
+npm run receive
+npm i playwright playwright-extra
+npm run receive
+npm install puppeteer-extra-plugin-stealth
+npm install puppeteer-extra-plugin-recaptcha
+npm run receive
+npm i request
+npm run receive
+node ./backend.js
+node ./backend.js {"time": 1,"uuid": "abc-3as"}
+npm run receive
+npx playwright install
+cd xlist/../
+cd ../
+git clone https://github.com/Ralve-org/RabbitScout.git<\n>cd RabbitScout
+npm install
+cp .env.example .env
+node ./backend.js
+hx .
+hx .env.local
+hx .env
+ls
+ls -a
+cd authfiles/
+ls
+cd ../
+ls
+npm run dev
+hx .env
+npm run dev
+z tip
+lz
+npm run 
+npm run deploy:worker
+node ./backend.js
+docker ps
+docker ps -a
+docker ps --all
+sudo chmod 666 /var/run/docker.sock
+docker ps --all
+docker ps
+docker ps --all
+docker
+docker info
+docker ps -a
+docker exec rabbitmq rabbitmq-plugins enable rabbitmq_stream rabbitmq_stream_management 
+docker ps
+z dot
+ls
+hx picom/.config/picom/picom.conf
+hx i3/.config/i3/config
+cd ../
+ls
+cd Websites/
+ls
+cd ../
+ls
+rm `2025-01-03 15-14-23.mp4` `2025-01-03 15-15-14.mp4`
+ls
+cd Websites/
+ls
+cd RabbitScout/
+ls
+cd ../
+ls
+cd xlist/
+ls
+node ./streamReceiever.js
+hx streamReceiever.js
+node ./streamReceiever.js
+z xlist
+z xli
+node ./backend.js
+node ./streamReceiever.js
+node ./consumer.js
+hx ./consumer.js
+node ./consumer.js
+hx .
+node ./consumer.js
+node ./backend.js
+node ./consumer.js
+hx .
+node ./consumer.js
+hx .
+node ./backend.js
+node ./consumer.js
+hx ./consumer.js
+node ./backend.js
+node ./consumer.js
+node ./backend.js
+z xlix
+z xl
+node ./backend.js
+node ./consumer.js
+touch grailedAutomation.jssx
+tsx
+deno
+sudo npm install -g ts-node
+ts-node
+ls
+mv backend.js backend.ts
+mv consumer.js consumer.ts
+mv grailedAutomation.js grailedAutomation.ts
+ls
+rm grailedAutomation.jssx
+ls
+mv streamReceiever.js streamReceiever.ts
+z xli
+z xl
+npm i --save-dev @types/node
+touch types.ts
+hx .
+cd ../
+ls
+cd top-image-services/
+hx .
+ls
+cd Websites/
+ls
+cd xlist/
+z xl
+hx .
+ls
+z ghostty
+ls
+bat README.md
+ls
+cd ~/.config/ghostty/config
+cd ~/.config/
+ls
+cd ghostty/
+ls
+z ghostty
+z confi
+ls
+cd ghostty/
+ls
+theme
+z confi
+ls
+hx ghostty/config
+ls
+z dot
+hx ls
+ls
+hx starship/.config/starship.toml
+ls
+hx helix/.config/helix/themes/Solarized-Osaka.toml
+hx .
+z xlist
+hx .
+z gh
+hx /
+z ghg
+z gh
+hx .
+ghostty +list-keybinds
+z xlist
+cd ../
+ls
+cd top-image-services/
+npm run dev
+sl
+ls
+stema
+ls
+z gho
+z dot
+ls
+mkdir ghostty
+cd ghostty/
+mkdir .config
+ls
+cd .config
+ls
+hx .
+mkdir ghostty
+ls
+cd ghostty/
+ls
+touch config
+hx config
+cd ..
+rm -rf ghostty/
+z dot
+stow ghostty
+ls
+z dot
+hx ghostty/.config/ghostty/config
+fkill 
+picom 
+picom
+picom --experimental-backends
+hx picom/.config/picom/picom.conf
+z we
+ls
+hx .
+z dot
+ls
+cd Websites/
+ls
+cd xlist/
+hx .
+z dot
+hx helix/.config/helix/themes/Solarized-Osaka.toml
+hx .
+z ghostty/
+ls
+z xl
+ls
+picom
+ls
+ts-node ./consumer.ts
+ts-node ./consumer
+ts-node ./consumer.ts
+npm i -D tsx
+sudo npm install -g tsx
+tsx ./consumer.ts
+ls
+tsx ./backend.ts
+tsx ./types.ts
+tsx
+ls
+z dot
+hx helix/.config/helix/config.toml
+hx ./
+z dot
+z we
+ls
+cd xlist/
+hx .
+z dot
+hx helix/.config/helix/config.toml
+:q
+ls
+hx ghostty/
+ls
+cd Websites/
+ls
+z dot
+ls
+hx ghostty/.config/ghostty/
+ls
+sudo apt install libgconf-2-4
+z down
+ls
+sudo dpkg -i figma-linux_0.11.5_linux_amd64.deb
+z tip
+ls
+npm run dev
+ghostty +list-keybinds
+z tip
+ls
+cd app/
+ls
+cd api/
+ls
+cd size-convert/
+ls
+npm run dev
+lz
+hx .
+lz
+npm run
+npm run dev:worker
+npm run
+npm run preview:worker
+npm run dev:worker --remote
+npx wrangler dev --remote
+npm run deploy:worker
+z tip
+yazi
+ff
+ls
+cd app/api/
+ls
+cd size-convert/
+ls
+mkdir csv
+pcmanfm .
+cd ../../
+ls
+cd ..
+ls
+touch createSizes.sql
+hx createSizes.sql
+npx wrangler d1 list
+npx wrangler d1 
+npx wrangler d1 list
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+npm run deploy:worker
+ls
+npm run deploy:worker
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+npm run deploy:worker
+hx .
+lz
+hx .
+lz
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+lz
+npm run deploy:worker
+pcmanfm .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+hx .
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+hx .
+npx wrangler d1 execute size_mappings --remote --file=./createSizes.sql
+npm run deploy:worker
+hx .
+ls
+cd ../
+ls
+cd xlist/
+ls
+docker ps -a
+sudo docker ps -a
+docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672 -p 5672:5672  \<\n>    -e RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS='-rabbitmq_stream advertised_host localhost' \<\n>    rabbitmq:3.13    
+ls
+sudo chmod 666 /var/run/docker.sock
+docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672 -p 5672:5672  \        23:07:44<\n>∙     -e RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS='-rabbitmq_stream advertised_host localhost' \<\n>∙     rabbitmq:3.13
+docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672 -p 5672:5672  \<\n>    -e RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS='-rabbitmq_stream advertised_host localhost' \<\n>    rabbitmq:3.13    
+docker run -it --rm --name rabbitmq -p 5552:5552 -p 15672:15672 -p 5672:5672  \<\n>    -e `RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS='-rabbitmq_stream advertised_host localhost'` \<\n>    rabbitmq:3.13    
+ls
+docker ps
+docker exec rabbitmq rabbitmq-plugins enable rabbitmq_stream rabbitmq_stream_management 
+ls
+cd xlist/
+z xl
+ls
+ll
+ls
+tsx ./consumer.ts
+tsx streamReceiever.ts
+hx .
+sh
+ls
+tsx consumer.ts
+hx .
+hx consumer.ts
+hx .
+tsx consumer.ts
+hx .
+tsx consumer.ts
+hx .
+tsx backend.ts
+tsx streamReceiever.ts
+hx .
+tsx consumer.ts
+hx consumer.ts
+tsx consumer.ts
+tsx backend.ts
+tsx consumer.ts
+hx .
+tsx consumer.ts
+hx .
+tsx streamReceiever.ts
+tsx backend.ts
+tsx consumer.ts
+tsx backend.ts
+tsx consumer.ts
+tsx backend.ts
+tsx consumer.ts
+tsx backend.ts
+lz
+ls
+cd Websites/tiptop-dashboard/
+ls
+cd app/size-converter/
+ls
+cd ../
+cd api/
+ls
+cd size-convert/
+ls
+cd csv
+ls
+mkdir download
+ls
+cd download/
+ls
+touch route.ts
+mkdir [version]
+cd '[version]/'
+touch route.ts
+cd ../
+hx .
+z ti
+npm install papaparse
+npm i --save-dev @types/papaparse
+z tip
+hx .
+ls
+cd app
+ls
+cd size-converter/
+ls
+hx .
+mkdir download
+cd download/o
+cd download/
+touch page.tsx
+hx .
+ls
+touch DownloadButton.tsx
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+ls
+rm DownloadButton.tsx
+hx .
+pcmanfm .
+npm run deploy:worker
+z tip
+hx .
+ls
+cd app/
+ls
+cd size-converter/
+ls
+mkdir run-program
+bat page.tsx
+rm page.tsx
+ls
+cd run-program/
+ls
+touch page.tsx
+hx page.tsx
+ls
+cd ../
+mv run-program/ run/
+ls
+cd run/
+hx page.tsx
+npm run deploy:worker
+hx .
+z tip
+npm run dev
+hx .
+z dow
+z down
+z ~
+cd Downloads/
+ls
+cd San-Francisco-Pro-Fonts-master/
+ls
+cp ./* /usr/local/share/fonts/*
+sudo cp ./* /usr/local/share/fonts/
+z dot
+ls
+z tip
+ls
+z tip
+npx shadcn@latest add dropdown-menu<\n>
+npm run dev
+npm run deploy:worker
+hx .
+z dot
+hx .
+hx helix/.config/helix/config.toml
+hx helix/.config/helix/themes/Solarized-Osaka.toml
+hx helix/.config/helix/config.toml
+hx helix/.config/helix/languages.toml
+hx helix/.config/helix/config.toml
+z ti0p
+z tip
+hx .
+z dot
+hx .
+hx i3/.config/i3/config
+npx shadcn@latest add select<\n>
+npm run deploy:worker
+hx .
+npm run deploy:worker
+hx .
+hx picom/.config/picom/picom.conf
+npm run deploy:worker
+lz
+hx .gitignore
+lz
+hx .gitignore
+wget -qO- https://raw.githubusercontent.com/kleo-dev/linear-linux/refs/heads/master/installer.sh | bash
+z black
+hx .
+z blac
+npm run dev
+npm run deploy
+npm run dev
+npm run deploy
+npm run dev
+npm run deploy
+lz
+hx .
+npm run dev
+npm run deploy
+z black
+npm run dev
+npm run update
+npm update
+npx @tailwindcss/upgrade@next
+npm run dev
+lz
+npx @tailwindcss/upgrade@next
+npm run dev
+hx .
+npm run dev
+z tip
+npm run dev
+npx wrangler d1 download size_mappings --local
+npx wrangler d1 
+npx wrangler
+npx wrangler -v
+npx wrangler update
+npm install wrangler --save-dev
+npx wrangler d1 download size_mappings --local
+npm install wrangler@latest
+npm wrangler d1 download
+npx wrangler d1 
+npx wrangler d1 export size_mappings
+npx wrangler d1 export size_mappings --local --output=./size_mappings.sql
+hx size_mappings.sql
+rm ./size_mappings.sql
+npx wrangler d1 export size_mappings --output=./size_mappings.sql
+hx size_mappings.sql
+rm ./size_mappings.sql
+npx wrangler d1 export size_mappings --output=./size_mappings.sql --remote
+bat size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+npm run dev
+npm run
+npm run dev:worker
+npm run README.md
+npm run
+npm run preview:worker
+npm run worker:dev
+npm run dev:worker
+npm run preview:worker
+hx .
+ls
+cd components/
+ls
+touch editing-table.tsx
+cd ../
+npm run preview:worker
+z tip
+cd app/api/
+ls
+cd size-convert/
+ls
+cd upload
+ls
+mkdir single
+cd single
+touch route.ts
+hx route.ts
+ls
+rm route.ts
+npm run preview:worker
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+hx ./size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+hx ./size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+hx ./size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+hx ./size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+hx ./size_mappings.sql
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+npm run preview:worker
+npx wrangler d1 execute size_mappings --local --file=./size_mappings.sql
+npm run preview:worker
+z
+z tip
+lz
+npm run deploy
+npm run deploy:worker
+z web
+alias 
+alias npm pnpm
+alias npm = pnpm
+npm
+pnpm create cloudflare@latest molar-and-friends --framework=astro
+cd molar-and-friends/
+astro add
+pnpx astro add tailwind
+ls
+bat pnpm-lock.yaml
+hx tailwind.config.mjs
+yazi
+ls
+cd src
+ls
+cd layouts/
+ls
+cd ../
+ls
+cd pages
+ls
+cd ../
+ls
+cd components/
+ls
+touch Header.astro
+touch Hero.astro
+touch Block.astro
+touch Footer.astro
+rm Welcome.astro
+hx .
+hx --health
+npm
+npm i -g @astrojs/language-server
+sudo npm i -g @astrojs/language-server
+ls
+z Websites/
+ls
+cd molar-and-friends/
+ls
+hx --health
+z dot
+hx helix/.config/helix/languages.toml
+hx --health
+hx helix/.config/helix/languages.toml
+hx --health
+z mol
+pnpm add @fontsource/averia-serif-libre
+pnpm add @fontsource-variable/andada-pro
+pnpm run dev
+hx .
+pnpm view
+pnpm view tailwindcss version
+hx .
+npm install -D @tailwindcss/typography
+pnpm add -D @tailwindcss/typography
+hx .
+lz
+z tip
+hx .
+ls
+cd src
+ls
+cd components/
+ls
+mv Block.astro LeftCard.astro
+cp LeftCard.astro RightCard.astro
+cd ../..
+ls
+cd src/components/
+ls
+hx .
+git remote add origin https://github.com/liamtsang/molar-and-friends.git
+lz
+pnpm dev
+hx .
+cd ..
+pnpm create cloudflare@latest active-chapter --framework=astro
+ls
+pnpm create cloudflare@latest my-astro-app --framework=astro
+pnpm create cloudflare@latest -- my-astro-app --framework=astro
+npm create cloudflare@latest -- my-astro-app --framework=astro
+rm my-astro-app/
+rm -rf my-astro-app/
+pnpm create cloudflare@latest active-chapter --framework=astro
+npm create cloudflare@latest active-chapter --framework=astro
+cd active-chapter/
+ls
+z ac
+z active
+ls
+cd src
+ls
+cd components/
+ls
+touch HomeColumn.astro
+touch StoreColumn.astro
+touch AboutColumn.astro
+touch Header.astro
+touch Footer.astro
+hx src
+npx astro add tailwind
+z ac
+z actu
+z act
+npm run dev
+npx astro add tailwind
+cd src/components/
+touch ArticleColumn.astro
+ls
+cd ../
+ls
+touch globals.css
+hx .
+cd ../
+npm run dev
+rm -rf active-chapter/
+npm create cloudflare@latest -- active-chapter --framework=next --experimental
+npm install tailwindcss @tailwindcss/postcss postcss
+hx .
+ls
+rm package-lock.json
+rm package.json
+ls
+ls -a
+rm -rf node_modules/
+ls
+cd active-chapter/
+ls
+npm install tailwindcss @tailwindcss/postcss postcss
+npm i motion
+npm run dev
+npm i motion/react
+npm run
+z black
+hx .
+lz
+hx .
+lz
+log9ut
+logout
+exit
+i3-msg exit
+sudo apt insatll xfce4 xcfec4-goodies
+sudo apt install xfce4 xcfec4-goodies
+sudo apt install xfce4 xfce4-goodies
+i3-msg exit
+z dot
+hx ghostty/.config/ghostty/
+ls
+z Websites/
+ls
+cd active-chapter/
+z ac
+npm run dev
+z act
+hx .
+ls
+cd src
+ls
+mkdir components
+cd components/
+ls
+touch StateProvider.tsx
+hx StateProvider.tsx
+lz
+hx .
+..
+cd ..
+hx .
+lz
+npm run dev
+hx .
+lz
+hx .
+npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx
+hx next.config.mjs
+ls
+cd src
+ls
+touch mdx-components.tsx
+hx mdx-components.tsx
+cd ../
+hx .
+npm install -D @tailwindcss/typography
+hx .
+npm run 
+npm run preview
+npm install @types/mdx --save-dev
+npm run preview
+ls
+touch mdx.d.ts
+hx mdx.d.ts
+npm run preview
+npm run dev
+hx .
+npm run preview
+z act
+npm run dev
+sleep-inactive-ac-timeout to 0
+coffee
+sudo apt install coffee
+ls
+cd Websites/
+ls
+cd tiptop-dashboard/
+ls
+z Websites/
+ls
+cd molar-and-friends/
+ls
+hx .
+npm run dev
+z black
+npm run dev
+npm run deploy:worker
+npm run deploy
+npm run deploy:worker
+npm run deploy
+caffeine
+z ac
+z act
+ls
+hx .
+ls
+cd src
+ls
+cd components/
+ls
+cd ../
+ls
+touch types.ts
+cd components/
+touch animations.ts
+touch columnReducer.ts
+touch NumberBadge.tsx
+touch Header.tsx
+touch Main.tsx
+hx .
+cd ..
+ls
+cd components/
+touch Shop
+rm Shop
+touch Shop.tsx ArticleLink.tsx SelectedArticle.tsx About.tsx
+hx .
+ls
+cd ..
+ls
+z act
+hx .
+ls
+cd app
+ls
+cd src
+ls
+cd app
+ls
+mkdir (www)
+ls
+mkdir `(www)`
+ls
+mv page.tsx `(www)/`page.tsx
+mv page.tsx ./`(www)/`page.tsx
+ls
+cd (www)/
+ls
+cd (www)/
+ls
+cd `(www)/`
+ls
+cd ../
+ls
+rm `(www)/`
+ls
+mkdir admin
+ls
+cd admin/
+ls
+touch Tiptap.tsx
+touch page.tsx
+hx .
+npm run dev
+npm install @tiptap/react @tiptap/pm @tiptap/starter-kit<\n>
+lz
+hx .
+c d../
+cd ..
+npm run dev
+hx .
+lz
+hx .
+npm run deploy
+hx .
+npm run deploy
+la
+lz
+z act
+hx .
+npm run dev
+ls
+cd ..
+ls
+cd molar-and-friends/
+npm i @fontsource/open-sans
+npm install @fontsource-variable/open-sans
+npm run dev
+npm install @fontsource-variable/open-sans
+sudo npm install @fontsource-variable/open-sans
+ls
+pnpm add @fontsource-variable/open-sans
+pnpm dev
+yarn add @fontsource-variable/instrument-sans
+pnpm add @fontsource-variable/instrument-sans
+z tip0
+z tip
+npm run preview
+npm run
+npm run preview:worker
+cd
+ls
+z tip
+ls
+cd app
+ls
+cd api
+ls
+cd size-convert/
+ls
+mkdir delete
+ls
+cd delete/
+ls
+touch route.ts
+ls
+hx route.ts
+ls
+cd ../
+ls
+mkdir [brand]
+ls
+pcmanfm .
+z tip
+npm run preview:worker
+hx .
+ls
+z tip
+hx .
+npm run dev:worker
+npm run preview:worker
+lz
+npm run deploy
+npm run worker:deploy
+npm run
+npm run deploy:worker
+npm run lint
+cd ..
+ls
+z top
+lz
+npm run dev
+ls
+cd ..
+ls
+cd top
+cd top-image-services/
+lz
+npm run dev
+hx .
+lz
+npm run build
+lz
+hx .
+z mol
+pnpm add motion
+npm run dev
+hx .
+steam
+ls
+hx .
+z top
+npm run devc
+npm run dev
+npm run
+npm run start
+npm run build
+npm run start
+lz
+hx .
+npm run dev
+npm run build
+npm run start
+lz
+hx .
+npm run start
+npm run build
+npm run start
+lz
+hx .
+lz
+npm run dev
+npm run build
+npm run start
+npm run build
+npm run start
+lz
+hx .
+ls
+z mol
+hx .
+npm run deploy
+npm run 
+pnpm run
+pnpm run astro
+pnpm run build
+pnpm run preview
+npm run dev
+z act
+hx .
+ls
+npx shadcn@latest add card<\n>
+npx shadcn@latest add button<\n>
+npx shadcn@latest add popover<\n>
+npx shadcn@latest add command<\n>
+npx shadcn@latest add calendar<\n>
+npx shadcn@latest add input
+npx shadcn@latest add label
+npx shadcn@latest add select
+npx shadcn@latest add badge
+npx shadcn@latest add scroll-area
+hx .
+ls
+cd src/
+ls
+cd app
+ls
+cd admin/
+ls
+touch metadata-form.tsx
+npm run dev
+npx shadcn@latest add plus
+cd ..
+npx shadcn@latest add plus
+npx shadcn@latest add use-toast
+npx shadcn@latest add alert
+npx shadcn@latest add alert-dialog
+npx shadcn@latest add toast
+npx shadcn@latest add toast<\n>
+ls
+touch schema.sql
+hx schema.sql
+wrangler d1 create active-chapter-articles
+npx wrangler d1 create active-chapter-articles
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql
+hx wrangler.json
+touch wrangler.toml
+hx wrangler.toml
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql
+hx 
+hx .
+rm wrangler.toml
+hx wrangler.json
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql
+ls
+cd src/
+ls
+cd lib
+ls
+mkdir db
+cd db
+touch metadata.ts
+cd ../
+ls
+cd ../
+ls
+cd app
+ls
+mkdir api
+cd api
+ls
+mkdir metadata
+cd metadata/
+touch route.ts
+l
+ls
+cd Websites/
+ls
+ls
+cd ..
+mkdir articles
+cd articles/
+touch route.ts
+npm run preview:worker
+npm run 
+npm run preview
+hx .
+lz
+hx .
+pcmanfm .
+hx .
+npm run dev
+npm run preview
+npm run dev
+npm run preview
+npx wrangler types --experimental-include-runtime
+cd
+z act
+npx wrangler types --experimental-include-runtime
+npm run preview
+hx tsconfig.json
+lz
+hx .
+ls
+cd ..
+ls
+npx create-medusa-app@latest medusa-test
+sudo apt install postgresql
+postgresql
+psql
+psql 
+su -c /usr/bin/psql postgres
+sudo -u postgres psql
+createdb 
+adduser liamt
+sudo -u postgres psql
+sudo - postgres
+sudo postgres
+sudo systemctl status postgresql
+npx create-medusa-app@latest medusa-test
+sudo npx create-medusa-app@latest medusa-test
+npm install -g @medusajs/medusa-cl
+sudo npm install -g @medusajs/medusa-cl
+sudo npm install -g @medusajs/medusa-cli
+medusa
+ls
+medusa new medusa-test
+cd medusa-test/
+docker compose up --build
+ls
+docker-compose
+z down
+ls
+cp ./docker-compose-linux-x86_64 /usr/local/lib/docker/cli-plugins/docker-compose
+cp ./docker-compose-linux-x86_64 /usr/local/libexec/docker/cli-plugins/docker-compose
+cp ./docker-compose-linux-x86_64 /usr/libexec/docker/cli-plugins/docker-compose
+cp ./docker-compose-linux-x86_64 /usr/lib/docker/cli-plugins/docker-compose
+cp ./docker-compose-linux-x86_64 ~/.docker/cli-plugins/docker-compose
+mv ./docker-compose-linux-x86_64 ~/.docker/cli-plugins/docker-compose
+cd ~
+ls
+mkdir .docker
+cd .docker/
+ls
+mkdir cli-plugins
+lsz dow
+z down
+cp ./docker-compose-linux-x86_64 ~/.docker/cli-plugins/docker-compose
+docker-compose
+docker 
+docker  compose
+docker-compose
+docker compose
+cd ~/.docker/cli-plugins/
+ls
+chmod +x docker-compose
+docker compose
+sudo apt install docker-compose-plugin
+# Add Docker's official GPG key:<\n>sudo apt-get update<\n>sudo apt-get install ca-certificates curl<\n>sudo install -m 0755 -d /etc/apt/keyrings<\n>sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc<\n>sudo chmod a+r /etc/apt/keyrings/docker.asc<\n><\n># Add the repository to Apt sources:<\n>echo \<\n>  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/debian \<\n>  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \<\n>  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null<\n>sudo apt-get updatecd
+cd .
+cd ..
+rm -rf medusa-test/
+git clone git@github.com:pomppa/medusa-docker.git
+git clone git@htpps://github.com:pomppa/medusa-docker.git
+git clone https://github.com/pomppa/medusa-docker.git
+cd medusa-docker/
+ls
+cd storefront/
+cp .env.template .env
+$NEXT_PUBLIC_MEDUSA_BACKEND_URL=http://medusa-server:9000
+env.NEXT_PUBLIC_MEDUSA_BACKEND_URL=http://medusa-server:9000
+$env.NEXT_PUBLIC_MEDUSA_BACKEND_URL=http://medusa-server:9000
+$env.NEXT_PUBLIC_MEDUSA_BACKEND_URL = http://medusa-server:9000
+$env.NEXT_PUBLIC_MEDUSA_BACKEND_URL = "http://medusa-server:9000"
+ls
+cd ../
+l
+sls
+ls
+docker-compose up --build
+docker compose up --build
+sudo chmod 666 /var/run/docker.sock
+docker-compose up --build<\n>
+docker compose up --build
+docker compose up [-d]
+ls
+docker ps
+docker ps -a
+cd sto
+cd storefront/
+ls
+hx Dockerfile
+cd ../
+ls
+docker compose up --build
+ls
+cd backend/
+ls
+cd ../
+cd backend/
+bat README.md
+cd ../
+rm -rf medusa-docker/
+git clone git@github.com:Agilo/fashion-starter.git
+git clone https://github.com/Agilo/fashion-starter.git
+cd fashion-starter/
+ls
+cd medusa/
+cp .env.template .env
+yarn
+sudo apt install yarn
+yarn
+sudo apt uninstall yarn
+sudo apt remove yarn
+npm install --global yarn
+sudo npm install --global yarn
+yarn
+docker-compose up -d
+docker compose up -d
+yarn build
+yarn medusa db:migrate
+yarn seed
+yarn medusa user -e "admin@medusa.local" -p "supersecret"
+z we
+ls
+cd fashion-starter/
+ls
+cd storefront/
+cp .env.template .env.local
+yarn
+yarn dev
+hx .env
+ls
+yarn dev
+cd ../
+cd storefront/
+hx .env.local
+hx .
+yarn dev
+yarn dev
+z act
+Ls
+ls
+cd ..
+ls
+cd fashion-starter/
+ls
+cd medusa
+yarn dev
+ls
+docker compose up -d
+sudo docker compose up -d
+sudo chmod 666 /var/run/docker.sock
+docker compose up -d
+sudo systemctl status postgresql
+sudo systemctl stop postgresql
+sudo systemctl status postgresql
+docker compose up -d
+cd ..
+ls
+cd storefront/
+ls
+npx wrangler
+npx wrangler r2
+npx wrangler r2 bucke
+npx wrangler r2 bucket
+npx wrangler r2 bucket create posts
+npx wrangler r2 bucket create posts --local
+npx wrangler r2 bucket create posts
+npx wrangler types --experimental-include-runtime
+hx tsconfig.json
+hx wrangler.json
+npx wrangler d1
+npx wrangler r2
+npx wrangler r2 bucket
+npx wrangler r2 bucket list
+npx wrangler r2 bucket info posts
+npx wrangler r2 object
+npx wrangler r2 objects
+npx wrangler r2 object
+npx wrangler r2 --local
+npx wrangler --local
+npx wrangler d1
+npx wrangler d1 list --local
+npx wrangler d1 execute
+npx wrangler r2
+npx wrangler r2 buckets
+npx wrangler r2 bucket
+npx wrangler r2 bucket info
+npm run preview
+npm run deploy
+curl -f https://zed.dev/install.sh | sh
+zed
+z act
+hx .
+zed
+zed .
+vscode
+code
+sudo apt install code
+sudo apt install vscode
+z dow
+ls
+sudo dpkg -i code_1.96.4-1736991114_amd64.deb
+z act
+ls
+git remote add origin https://github.com/liamtsang/active-chapter.git
+git branch -M main
+lz
+hx .
+npm run dev
+ls
+z act
+ls
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --remote
+hx .
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --local
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --remote
+npx wrangler d1
+npx wrangler d1 info
+npx wrangler d1 list
+npx wrangler d1 list info active-chapter-articles
+npx wrangler d1 info active-chapter-articles
+npx wrangler d1 insights active-chapter-articles
+npm run deploy
+hx .
+lz
+git clone https://github.com/yusukebe/r2-image-worker.git<\n>cd r2-image-worker
+ls
+npx wrangler r2 bucket create images
+cp wrangler.example.toml wrangler.toml
+hx wrangler.toml
+wrangler secret put 
+npx wrangler secret put 
+npx wrangler secret put USER
+cd ../
+rm -rf r2-image-worker/
+cd ../
+ls
+git clone https://github.com/yusukebe/r2-image-worker.git<\n>cd r2-image-worker
+cp wrangler.example.toml wrangler.toml
+wrangler secret put USER
+npx wrangler secret put USER
+wrangler secret put PASS
+npx wrangler secret put USER
+npm run deploy
+sudo npm run deploy
+npm i -g wrangler
+sudo npm i -g wrangler
+sudo npm run deploy
+npm i
+sudo npm run deploy
+wget https://hono.dev/images/hono-kawaii.png -O /tmp/1.jpg
+hx wrangler.toml
+ls
+feh /tmp/1.jpg
+npx wrangler secret put PASS
+npm run deploy
+sudo npm run deploy
+ls
+hx .
+:q!
+cd .
+cd ..
+ls
+cd active-chapter/
+ls
+cd src
+ls
+cd components/
+ls
+touch ImageUpload.tsx
+npm i react-dropzone
+hx .
+wrangler
+npx wrangler types --experimental-include-runtime
+npm run dev
+wrangler d1 
+wrangler d1 list
+wrangler d1 active-chapter-articles execute --command "-- Add cover_image to articles table<\n>ALTER TABLE articles ADD COLUMN cover_image TEXT;"
+wrangler d1 active-chapter-articles execute --command "ALTER TABLE articles ADD COLUMN cover_image TEXT;"
+wrangler d1 execute active-chapter-articles --command "ALTER TABLE articles ADD COLUMN cover_image TEXT;"
+npm run preview
+z r2
+npm run preview
+npm run 
+npm run dev
+hx .
+wrangler d1 execute active-chapter-articles --command --remote "ALTER TABLE articles ADD COLUMN cover_image TEXT;"
+npm run deploy
+wrangler d1 execute active-chapter-articles --remote --command "ALTER TABLE articles ADD COLUMN cover_image TEXT;"
+hx .
+npm run deploy
+npm run preview
+npm run dev
+npm run start
+npm run
+npm run dev
+wrangler dev
+z act
+z r2
+npm run dev
+wrangler dev --remote
+npm run dev --remote
+hx .
+wrangler dev
+npm run 
+wrangler dev
+hx .
+npx wrangler types --experimental-include-runtime
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+z r2
+hx .
+npm run deploy
+hx next.config.mjs
+npm run deploy
+hx .
+hx next-env.d.ts
+ls
+hx .env.local
+hx .
+npm run deploy
+hx .
+hx .
+hx .
+npm run deploy
+npm run preview
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npx wrangler@latest kv namespace create active_chapter_cache
+hx .
+npm run deploy
+ls
+cd src
+ls
+cd app
+ls
+mkdir api
+cd api
+mkdir images
+cd images/
+ls
+mkdir upload
+mkdir [id]
+cd upload/
+touch route.ts
+cd ..
+cd '[id]/'
+touch route.ts
+cd ..
+ls
+cd ..
+ls
+cd lib
+ls
+touch r2.ts
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+lz
+z mo
+lz
+ls
+cd ..
+ls
+cd active-chapter/
+lz
+ls
+cd ..
+ls
+cd blackmrkt-next/
+lz
+ls
+cd Websites/
+ls
+cd molar-and-friends/
+npm run dev
+lz
+pnpm dev
+lxz
+lz
+pnpm dev
+ls
+cd Websites/
+cd molar-and-friends/
+ls
+hx .
+ls
+z mo
+pnpm dev
+hx .
+cd molar-and-friends/
+cd src/
+cd pages/
+ls
+touch waitlist.astro
+cd ..
+hx .
+ls
+lz
+touch schema.sql
+hx schema.sql
+npx wrangler d1 
+npx wrangler d1 execute molar-and-friends-waitlist --file="schema.sql"
+npx wrangler d1 execute molar-and-friends-waitlist --remote --file="schema.sql"
+npm run deploy
+ls
+cd src
+l
+ls
+cd pages/
+ls
+touch success.astro
+cd ../../
+ls
+npm run deploy
+lz
+hx .
+lz
+npm run deploy
+lz
+ls
+cd Websites/molar-and-friends/
+stema
+ls
+cd Websites/molar-and-friends/
+ls
+cd ../
+ls
+cd molar-and-friends/
+cd ../
+ls
+cp molar-and-friends/ molar-and-friends-construction/
+cp ./molar-and-friends/ ./molar-and-friends-construction/
+ls
+pcmanfm .
+ls
+cd molar-and-friends-construction/
+hx .
+pnpm run deploy
+lz
+z top
+lz
+ls
+lz
+ls
+npm run preview
+npm run
+npm run build
+npm run 
+npm run start
+npm run build
+hx .
+ls
+npm run 
+npm run syncdb
+ls -a
+hx .env
+npm run dev
+hx .
+ls -a
+hx .env
+npx prisma studio
+lz
+npm run dev
+lz
+hx .
+npm run dev
+hx .
+z top
+npm run dev
+hx .
+hx .
+npm run dev
+ls
+lz
+hx .env
+npm run dev
+npx prisma generate
+npx prisma pull
+npx prisma db pull
+npm run dev
+curl telnet://aws-0-ap-southeast-2.pooler.supabase.com:6543
+sudo apt install psql
+psql
+psql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543/postgres"
+psql "postgresql://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543/postgres?options=project%3Dipfdzuifsasmelxwjgmc"
+sql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543/postgres?pgbouncer=true"
+psql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543/postgres?pgbouncer=true"
+psql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543/postgres"
+psql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:6543"
+psql "postgres://postgres.ipfdzuifsasmelxwjgmc:dipnav-fuShov-gacva4@aws-0-ap-southeast-2.pooler.supabase.com:5432/postgres"
+hx .env
+stema
+ls
+cd Websites/active-chapter/
+ls
+hx .
+npx shadcn@latest add navigation-menu<\n>
+ls
+cd src/
+ls
+cd app/admin/
+ls
+touch AdminHeader.tsx
+cd ../..
+cd ..
+ls
+mkdir posts
+cd posts
+touch page.tsx
+npx shadcn@latest add table
+z ac
+npx shadcn@latest add table
+touch ./src/app/api/articles/route.ts
+mkdir ./src/app/articles
+touch ./src/app/api/articles/route.ts
+ls
+cd src/app/api/
+ls
+mkdir articles
+cd articles/
+touch route.ts
+cd ..
+c d..
+cd ..
+ls
+rm articles/
+hx .
+ls
+cd src/app/api/articles/
+ls
+mkdir [id]
+cd '[id]/'
+touch route.ts
+cd ..
+lz
+hx .
+npm run dev
+go
+cd tmp
+cd /tmp
+git clone https://github.com/Achno/gowall
+git clone https://github.com/Achno/gowall<\n>cd gowall
+cd gowall
+sudo apt install go
+sudo apt install golang
+go
+go build
+sudo go build
+go build
+go get gopkg.in/niemeyer/godeb.v1/cmd/godeb
+cd ..
+go get gopkg.in/niemeyer/godeb.v1/cmd/godeb
+go version go version go1.20.3 linux/amd64
+go version
+ls
+z
+z ac
+cd ..
+cd molar-and-friends/
+z act
+ls
+cd src
+ls
+cd components/
+ls
+touch Marquee.tsx
+npm install react-fast-marquee --save
+ls
+cd ..
+ls
+cd app/api
+ls
+cd articles/
+mkdir metadata
+cd metadata/
+touch route.ts
+z ac
+ls
+cd src/
+ls
+cd components/
+ls
+touch FilterCombobox.tsx
+lz
+npm run dev
+ls
+cd Downloads/
+hx .
+ls
+npm run build
+z ac
+npm run build
+npm run deploy
+z ac
+npm run deploy
+sudo add-apt-repository ppa:mixxx/mixxx
+sudo apt install mixxx
+mixxx
+cd Scripts/
+git clone https://github.com/hassanaziz0012/spotify-downloader
+cd spotify-downloader/
+docker build -t spotify-downloader .
+sudo chmod 666 /var/run/docker.sock
+docker build -t spotify-downloader .
+hx .
+docker run -it -v /home/liamt/music:/app/music spotify-downloader
+docker run -it -v /home/liamt/music:/app/music spotify-downloader https://open.spotify.com/playlist/3lHQwgNOqkyyUdZS8qY7mX?si=09cdac92d976453c
+docker run -it -v /home/liamt/music:/app/music spotify-downloader
+python
+docker run -it -v /home/liamt/music:/app/music spotify-downloader playlist
+cd ../
+rm -rf spotify-downloader/
+sudo apt install ffmpeg
+pip install spotdl
+sudo apt install pip
+pip install spotdl
+sudo apt install python3-full
+sudo apt install pipx
+pipx ensurepath
+pipx install spotdl
+spotdl
+spotdl download --output "{artist} - {title}.{output-ext}" --format mp3 --bitrate 320k "https://open.spotify.com/playlist/3lHQwgNOqkyyUdZS8qY7mX?si=367341ea1c654ef2" --threads 4
+spotdl download "https://open.spotify.com/playlist/3lHQwgNOqkyyUdZS8qY7mX?si=367341ea1c654ef2"
+spotdl download --threads 4 "https://open.spotify.com/playlist/3lHQwgNOqkyyUdZS8qY7mX?si=367341ea1c654ef2"
+spotdl --threads 4 download "https://open.spotify.com/playlist/3lHQwgNOqkyyUdZS8qY7mX?si=367341ea1c654ef2"
+ls
+z dot
+hx .
+hx ghostty/.config/ghostty/config
+ls
+hx .
+cd Websites/molar-and-friends/
+hx .
+ls
+z dot
+hx picom/.config/picom/picom.conf
+ls
+l
+z dot
+hx helix/.config/helix/config.toml
+hx helix/.config/helix/themes/Solarized-Osaka.toml
+z dot
+hx i3status/.config/i3status/config
+hx i3/.config/i3/config
+z mol
+hx .
+ls
+cd Websites/molar-and-friends/
+z mol
+z i3
+exec --no-startup-id feh --bg-max ~/.dotfiles/__Images/bg/solarized/doro_sign_solarized.png --image-bg "#93a1a1"
+exec --no-startup-id feh --bg-max ~/Images/alex_colville_car.png
+feh --bg-max ~/Images/alex_colville_car.png
+feh --bg-max ~/Pictures/alex_colville_car.jpg
+go install
+go version
+z do
+z down
+ls
+z sci
+z script
+ls
+z gowall
+git clone https://github.com/Achno/gowall
+git clone https://github.com/Achno/gowall<\n>cd gowall
+cd gowall
+go build
+sudo cp gowall /usr/local/bin
+gowall
+z do
+z Ima
+z images
+cd ~/Pictures/
+ls
+gowall alex_colville_car.jpg
+gowall list
+gowall convert ./alex_colville_car.jpg -t tokyo-dark
+z Pictures/
+gowall pixelate ./alex_colville_car.jpg -s 15
+gowall pixelate ./alex_colville_car.jpg -s 5
+gowall pixelate ./alex_colville_car.jpg -s 25
+gowall pixelate ./alex_colville_car.jpg -s 20
+gowall convert ./alex_colville_car_pixelated.jpg -t tokyo-dark
+feh --bg-max ~/Pictures/alex_colville_car_pixelated_tokyo_dark.jpg
+z top
+hx .
+lz
+z top
+hx .
+lz
+z molar
+hx .
+hx .config/i3/config
+z i3
+z picom
+z dot
+hx picom/.config/picom/picom.conf
+ls
+z pic
+ls
+gowall pixelate ./alex_colville_laser.jpg -s 20
+gowall pixelate ./alex_colville_laser.jpg -s 25
+gowall pixelate ./alex_colville_laser.jpg -s 3000
+gowall convert ./alex_colville_laser.jpg -t tokyo_night
+gowall convert ./alex_colville_laser.jpg -t tokyo-night
+gowall convert ./alex_colville_laser.jpg -t tokyo
+gowall list
+gowall convert ./alex_colville_laser.jpg -t tokyo-dark
+feh --bg-max ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
+killall feh
+fkill
+hx .config/i3/config
+feh --bg-max ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_laser.jpg
+z pic
+ls
+gowall invert alex_colville_laser.jpg
+gowall convert ./alex_colville_laser_inverted.jpg -t tokyo-dark
+feh --bg-max ~/Pictures/gowall/alex_colville_laser_inverted.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_laser.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_laser_inverted.jpg
+gowall convert ./alex_colville_train.jpg -t tokyo-dark
+feh --bg-max ~/Pictures/gowall/alex_colville_train.jpg
+gowall pixelate ./alex_colville_train.jpg -s 25
+gowall convert ./alex_colville_2001_surveyor.jpg -t -tokyo-dark
+gowall list
+gowall convert ./alex_colville_2001_surveyor.jpg -t -tokyo-dark
+gowall convert ./alex_colville_2001_surveyor.jpg -t tokyo-dark
+feh --bg-max ~/Pictures/gowall/alex_colville_2001_surveyor.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_train.jpg
+feh --bg-max ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
+z i3
+feh man
+man feh
+feh --bg-fill ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
+ls
+z Pictures/
+ls
+fkill picom
+picom
+z dot
+picom --experimental-backends
+picom --experimental-backends --daemon
+fkill picom
+picom --daemon
+picom --experimental-backends --daemon
+fkill picom
+picom --experimental-backends --daemon
+z dot
+hx .config/i3/config
+z ac
+z act
+lz
+hx picom/.config/picom/picom.conf
+hx helix/.config/helix/config.toml
+hx 
+hx picom/.config/picom/picom.conf
+hx i3/.config/i3/config
+fkill picom
+hx picom/.config/picom/picom.conf
+z ghostty/
+ls
+xprop | grep WM_CLASS
+hx ./i3/.config/i3/config
+xprop | grep WM_CLASS
+ls
+z act
+lz
+hx .
+npm run dev
+hx .
+z dot
+npm run dev
+hx .
+lz
+npm run deploy
+z act
+hx .
+ls
+cd src
+ls
+cd hooks
+ls
+touch useURLSync.ts
+cd ../
+ls
+cd lib
+touch url.ts
+cd ..
+ls
+cd app
+touch home-client.tsx
+npm run dev
+lz
+hx .
+lz
+ls
+cd src
+ls
+cd components/
+touch ArticlesList.tsx
+hx ArticlesList.tsx
+lz
+sudo npm i -g tailwindcss-language-server
+tailwindcss-language-server
+tailwindcss-ls
+sudo npm i -g tailwindcss-ls
+hx .
+z helix
+helix --health
+hx --health
+z helix
+z dot
+hx helix/.config/helix/languages.toml
+hx --health
+z act
+hx .
+z act
+ls
+cd src
+ls
+cd app
+touch HomeClient.tsx
+lz
+cd ..
+lz
+npm run dev
+lz
+l
+zlz
+lz
+git add .
+git stash 
+find .git/objects/ -type f -empty -delete
+ls
+git fsck
+git stash
+git pull
+c d../
+cd ../
+ls
+mv ./active-chapter/ ./active-chapter-bak
+ls
+git clone https://github.com/liamtsang/active-chapter.git
+cd active-chapter/
+ls
+lz
+ls
+npm i
+npm run dev
+ls
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --remote
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --local
+npm run dev
+hx schema.sql
+npx wrangler d1 execute active-chapter-articles --file=./schema.sql --local
+ls
+lz
+ls
+cd src/app/api/articles/
+ls
+mkdir [title]
+cd '[title]/'
+ls
+touch route.ts
+ls
+cd ..
+ls
+mkdir title
+pcmanfm .
+hx .
+lz
+hx .
+lz
+z doty
+z dot
+cargo install fogwatch
+rustup
+rustc
+rustup
+cargo install cargo --force
+rustup
+cargo install rustup
+hx nushell/.config/nushell/env.nu
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+hx .
+hx nushell/.config/nushell/env.nu
+rustup
+rustc
+rustc -v
+rustc -V
+z script
+carog install fogwatch
+cargo install fogwatch
+fogwatch
+export CLOUDFLARE_API_TOKEN="your-api-token"
+fogwatch
+ls
+cd ..
+fogwatch
+hx .
+hx nushell/.config/nushell/env.nu
+npm run deploy
+npm run dev
+hx db.ts
+npx wrangler types --experimental-include-runtime="./runtime.d.ts"
+hx db.ts
+hx .
+npm run deploy
+npx wrangler types --experimental-include-runtime
+npm run deploy
+z act
+npm run deploy
+z dot
+npm run deploy
+fogwatch
+npm run deploy
+hx .
+npm run deploy
+hx .
+lz
+z dot
+hx ghostty/.config/ghostty/config
+ls
+cd ghostty/.config/ghostty/
+ls
+hx .
+z act
+hx config
+:q
+lz
+ls
+z dot
+hx .
+stema
+ls
+z act
+npm run dev
+hx .
+ls
+cd src/
+ls
+cd components/
+ls
+cd ..
+hx .
+lz
+hx .
+lz
+hx .
+lz
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+hx .
+npm run deploy
+npm run deploy
+npm run dev
+flatpak install flathub net.mkiol.SpeechNote
+flatpak run net.mkiol.SpeechNote
+z molar
+lz
+git pull
+git config pull.rebase false
+git pull
+hx .
+ls
+lz
+hx .
+z molar
+hx .
+lz
+z molar
+lz
+pnpm run deploy
+z act
+ls
+z act
+ipconfig /all
+curl ifconfig.me
+ifconfig -a
+ip addr (ip a)
+hostname -I | awk '{print $1}'
+hx .
+npm run dev
+npm run deploy
+npm run dev
+lz
+npm run deploy
+cd act
+z act
+ls
+hx .
+z act
+npm run build
+hx .
+npm run dev
+npm run build
+npm run deploy
+hx .
+npm run deploy
+z molar
+z mol
+hx .
+pnpm dev
+ls
+lz
+hx .
+ls
+cd ..
+ls
+cd molar-and-friends/
+ls
+cd public/
+ls
+cd ..
+find / -type d -name 'Tempo Launcher - Beta'
+z mol
+ip addr (ip a)
+ipconfig /all
+ip addr
+hostname -I | awk '{print $1}'
+pnpm dev
+hx .
+lz
+stema
+sudo apt install openvpn
+openvpn
+sudo apt install openvpn3
+curl -sSfL https://packages.openvpn.net/packages-repo.gpg
+echo "deb [signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net/openvpn3/debian DISTRIBUTION main" >>/etc/apt/sources.list.d/openvpn3.list
+echo "deb [signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net/openvpn3/debian bookworm main" >>/etc/apt/sources.list.d/openvpn3.list
+apt update
+sudo apt update
+sudo apt install openvpn3
+sudo apt install apt-transport-https curl
+curl -sSfL https://packages.openvpn.net/packages-repo.gpg >/etc/apt/keyrings/openvpn.asc
+sudo curl -sSfL https://packages.openvpn.net/packages-repo.gpg >/etc/apt/keyrings/openvpn.asc
+echo "deb [signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net/openvpn3/debian bookworm main" >>/etc/apt/sources.list.d/openvpn3.list
+apt update
+sudo apt update
+sudo apt install 
+sudo apt install openvpn3
+sudo apt install openvpn
+openvpn
+sudo apt install openvpn
+openvpn
+sudo openvpn
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+hx Websites/rustybeetle/vpn.ovpn
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+hx Websites/rustybeetle/vpn.ovpn
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+hx Websites/rustybeetle/vpn.ovpn
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+hx Websites/rustybeetle/vpn.ovpn
+ping 192.168.7.1
+sudo nmap -p 80,443,8080 192.168.7.0/24
+sudo nmap -p 80,443,8080 172.31.0.0/24
+sudo nmap -sV -p80,8080 192.168.7.101,106,111
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+ls
+cd Websites/
+ls
+cd top-image-services/
+ls
+hx .
+npm run deploy
+lz
+z mol
+hx .
+lz
+pnpm run deploy
+hx .
+lz
+pnpm run deploy
+find / -type d -name 'Tempo Launcher - Beta'
+z top
+hx .
+lz
+ls
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+sudo apt install kdenlive
+ls
+cd Documents/
+ls
+mkdir fonts
+cd fonts/
+git clone https://github.com/ertekinno/libre-caslon-condensed.git
+pcmanfm .
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/neetly/figma-agent-linux/main/scripts/install.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/neetly/figma-agent-linux/main/scripts/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/neetly/figma-agent-linux/main/scripts/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/neetly/figma-agent-linux/main/scripts/install.sh
+ls
+z ac
+hx .
+npm run dev
+npm run deploy
+z top
+stema
+z mol
+ls
+z mol
+sudo openvpn --config ~/Websites/rustybeetle/vpn.ovpn
+hx .
+ls
+hx schema.sql
+wrangler
+wrangler d1 
+wrangler d1 list
+z dot
+hx nushell/.config/nushell/config.nu
+hx nushell/.config/nushell/env.nu
+wrangler d1 list
+ls
+z mol
+wrangler d1 list
+wrangler d1 execute molar-and-friends-wailist --file=./schema.sql
+wrangler d1 execute molar-and-friends-waitlist --file=./schema.sql
+hx schema.sql
+wrangler d1 execute molar-and-friends-waitlist --file=./schema.sql
+hx .
+wrangler d1 execute molar-and-friends-waitlist --file=./schema.sql --remote
+pnpm run deploy
+hx .
+ls
+hx .
+ls
+cd Websites/
+ls
+cd molar-and-friends/
+hx .
+z mol
+lz
+hx .
+lz
+pnpm run deploy
+z top
+pnpm dev
+hx .
+z top
+hx .
+lz
+z top
+hx .
+:wq
+lz
+z top
+hx .
+lz
+ls
+cd molar-and-friends/
+z mol
+z mol
+hx .
+pnpm run deploy
+lz
+sudo npm install -g @anthropic-ai/claude-code
+claude
+z tip
+hx .
+sudo apt install mariadb-server
+mariadb --version
+sudo apt uninstall mariadb-server
+sudo apt remove mariadb-server
+cd ..
+ls
+git clone https://github.com/rustybeetle-dev/metis.git
+sudo apt install mariadb-server
+python --version
+python 
+py
+python3 
+mariadb-server
+systemctl enable --now mariadb
+sudo systemctl enable --now mariadb
+mariadb-server
+mariadb-check 
+sudo mkdir -p /etc/metis<\n>sudo nano /etc/metis/config.ini
+sudo mkdir -p /etc/metis
+sudo hx /etc/metis/config.ini
+z dot
+hx .
+sudo nano /etc/environment
+sudo hx /etc/envioronment
+source /etc/environment
+echo $METIS_CONFIG
+echo env.$METIS_CONFIG
+echo $env.METIS_CONFIG
+echo $env.$METIS_CONFIG
+echo $env.METIS_CONFIG
+z dot
+hx nushell/.config/nushell/env.nu
+echo env.$METIS_CONFIG
+echo $env.METIS_CONFIG
+ls
+cd metis/
+ls
+pip install
+cd python
+ls
+cd ..
+ls
+hx package.json
+python3 -V
+pip3 install flask flask_cors flask_login pymysql pandas configparser openpyxl requests parameterized
+pip3 install virtualenv
+sudo apt install python3-full python3-venv
+python3 -m venv ~/myenv
+source ~/myenv/bin/activate
+pip install flask flask_cors flask_login pymysql pandas configparser openpyxl requests parameterized
+sudo sh source ~/myenv/bin/activate
+sudo source ~/myenv/bin/activate
+sudo apt install pipx
+pipx ensurepath
+pipx install flask
+cd angular
+npm install -g @angular/cli@15.2.9
+sudo npm install -g @angular/cli@15.2.9
+npm install
+ls
+cd ..
+ls
+python ./scripts/dev_startup.py
+python3 ./scripts/dev_startup.py
+sudo python3 ./scripts/dev_startup.py
+cd scripts/
+ls
+hx dev_startup.py
+ls
+cp dev_startup_deb.py
+cp ./dev_startup.py ./dev_startup_deb.py
+cp ./dev_shutdown.py ./dev_shutdown_deb.py
+hx .
+chmod +x scripts/dev_startup.py scripts/dev_shutdown.py
+cd ..
+chmod +x scripts/dev_startup.py scripts/dev_shutdown.py
+python3 ./scripts/dev_startup.py
+sudo python3 ./scripts/dev_startup.py
+sudo python3 ./scripts/dev_startup_deb.py
+pipx inject flask pymysql
+sudo python3 ./scripts/dev_startup_deb.py
+sudo apt install python3-pymysql
+sudo python3 ./scripts/dev_startup_deb.py
+echo $env.METIS_CONFIG
+hx ~/.bashrc
+sudo python3 ./scripts/dev_startup_deb.py
+hx ./scripts/dev_startup.py
+sudo python3 ./scripts/dev_startup_deb.py
+mysql
+sudo mysql
+sudo apt install heidisql
+mysql -u root -p
+bat /etc/metis/config.ini
+<\n><\n>sudo snap install heidisql-wine<\n><\n>
+sudo snap run heidisql-wine
+snap run heidisql-wine
+z met
+ls
+sudo python3 ./scripts/dev_startup_deb.py
+hx /home/liamt/Websites/metis/db/tables/scenario_notes.sql
+sudo python3 ./scripts/dev_startup_deb.py
+hx /home/liamt/Websites/metis/db/tables/table_flex_fields.sql
+sudo python3 ./scripts/dev_startup_deb.py
+hx /home/liamt/Websites/metis/db/tables/table_flex_fields.sql
+sudo python3 ./scripts/dev_startup_deb.py
+hx /home/liamt/Websites/metis/db/tables/
+sudo python3 ./scripts/dev_shutdown_deb.py
+sudo python3 ./scripts/dev_shutdown_deb.py --drop-tables
+sudo python3 ./scripts/dev_shutdown_deb.py
+sudo python3 ./scripts/dev_startup_deb.py
+hx ./scripts/dev_shutdown_deb.py
+hx ./scripts/dev_shutdown_deb.py --drop-tables
+sudo python3 ./scripts/dev_shutdown_deb.py --drop-tables
+sudo python3 ./scripts/dev_startup_deb.py
+snap run heidisql-wine
+hx /etc/metis/config.ini
+sudo python3 ./scripts/dev_startup_deb.py
+sudo python3 ./scripts/dev_shutdown_deb.py --drop-tables
+sudo python3 ./scripts/dev_startup_deb.py
+sudo python3 ./scripts/dev_shutdown_deb.py --drop-tables
+sudo mysql
+python3 ./scripts/dev_startup_deb.py
+hx .
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+cd ang
+cd angular/
+npm install
+cd ..
+hx ./scripts/
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+hx ./scripts/
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+hx ./scripts/
+python3 ./scripts/dev_startup_deb.py
+z met
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+cd angular/
+npm install chart.js @types/chart.js
+hx tsconfig.json
+cd ..
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+hx tsconfig.json
+hx angular/tsconfig.json
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+hx angular/tsconfig.json
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+hx .
+ps aux | grep flask
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+pipx install flask
+pipx inject flask flask_cors flask_login pymysql
+python3 app.py
+sudo apt install python3-flask python3-flask-cors python3-flask-login python3-pymysql python3-pandas python3-openpyxl python3-requests
+python3 app.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+ls
+cd Websites/
+ls
+cd rustybeetle/
+ls
+cd ..
+ls
+cd metis/
+ls
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+ls
+cd Websites/
+ls
+cd top-image-services/
+cd ..
+cd tiptop-dashboard/
+ls
+z tip
+ls
+npm install @shopify/shopify-api
+npm install --save @shopify/shopify-api<\n>
+hx .
+z mol
+hx .
+lz
+pnpm run deploy
+ls
+cd mol
+z m
+ls
+cd public
+ls
+touch sitemap.txt
+hx sitemap.txt
+pnpm run deploy
+claude
+z mol
+hx .
+lz
+pnpm run deploy
+pnpm dev
+z meti
+ls
+python3 ./scripts/dev_startup_deb.py
+z metis
+z m
+z meti
+cd angular/
+ls
+npm install primeng @primeng/themes
+npm install primeng @primeng/themes --legacy-peer-deps
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+cd angular/
+ng
+ng version
+npm uninstall primeng
+npm install primeng@15.4.1 primeicons
+z top
+hx .
+lz
+ls
+z tip
+npm run dev
+hx .
+ls
+cd ..
+ls
+mkdir tiptop-hono
+rm tiptop-hono/
+ls
+npm create hono@latest my-app
+npm create hono@latest tiptop-hono
+cd tiptop-hono/
+l
+ls
+claude
+npm i -g @anthropic-ai/claude-code
+sudo npm i -g @anthropic-ai/claude-code
+z tiptop-hono
+z tip
+hx .
+git init
+claude
+npm i @shopify/shopify-api
+npm run dev
+npm install @shopify/admin-api-client -s
+z tiptop
+npm run dev
+hx .
+ls
+cd myenv/
+ls
+cd ..
+ls
+cd Websites/
+ls
+cd tiptop-hono/
+z black
+hx .
+lz
+find .git/objects/ -type f -empty -delete
+lz
+ls
+hx .
+pcmanfm .
+hx .
+lz
+z black
+npm run deploy
+z tiptop-ho
+s
+ls
+npm run dev
+z tiptop-ho
+npm run dev
+hx .
+z tip
+hx .
+z tip
+ls
+bat createSizes.sql
+wrangler
+wrangler d1 execute size_mappings_revert 
+wrangler d1 execute size_mappings_revert  --file=./createSizes.sql
+wrangler d1 execute size_mappings_revert --file=./createSizes.sql
+wrangler d1 execute size_mappings_revert --file=./createSizes.sq
+wrangler d1 execute size_mappings_revert --file=./createSizes.sql
+wrangler d1 execute size_mappings_revert --file=./createSizes.sql --remote
+npm run deploy
+lz
+npm run
+npm run deploy:worker
+lz
+npm run deploy:worker
+lz
+npm run deploy:worker
+cd Downloads/
+ls
+tar -xzf rofi-1.7.8.tar.gz
+ls
+cd rofi-1.7.8/
+ls
+mkdir build
+cd build
+../configure
+sudo apt install bison
+../configure
+sudo apt install flex
+../configure
+sudo apt install xcb-util-dev libxcv-dev
+sudo apt install libxcb
+sudo apt install libxcb-xkb
+sudo apt install <\n><\n>libcairo-xcb<\n>
+sudo apt install libcairo-xcb
+sudo apt install xcb
+../configure
+sudo apt install rofi
+rofi
+rofi -show window
+rofi -show run
+z dot

@@ -17,7 +17,7 @@ auto-format = true
 
 [[language]]
 name = "tsx"
-language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "biome" ]
+language-servers = [ { name = "typescript-language-server", except-features = [ "format" ] }, "tailwindcss-react", "biome" ]
 indent = { tab-width = 2, unit = " " }
 auto-format = true
 
@@ -50,6 +50,13 @@ name = "go"
 indent = { tab-width = 2, unit = " " }
 auto-format = true
 
+[[language]]
+name = "astro"
+language-servers = [ { name = "astro-ls", except-features = [ "format"] }, "biome" ]
+indent = { tab-width = 2, unit = " " }
+auto-format = true
+
+
 [language-server.vscode-json-language-server.config]
 json = { validate = { enable = true }, format = { enable = true } }
 provideFormatter = true
@@ -68,7 +75,7 @@ language-servers = [ "vscode-html-language-server", "tailwindcss-react", "emmet-
 [[language]]
 name = "css"
 formatter = { command = 'npx', args = ["prettier", "--parser", "css"] }
-language-servers = [ "vscode-css-language-server", "tailwindcss-react", "emmet-ls"]
+language-servers = [ "vscode-css-language-server", "css-react", "emmet-ls"]
 
 [language-server.fish]
 args = ["--start"]
@@ -125,12 +132,6 @@ roots = ["package.json", "astro.config.mjs"]
 command = "astro-ls"
 args = ["--stdio"]
 config = {typescript = {tsdk = "/Users/ali/Desktop/projects/taby-frontend-2023/node_modules/typescript/lib"}, environment = "node"}
-
-[[language]]
-name = "astro"
-formatter = { command = 'prettier', args = ["--parser", "astro"] }
-auto-format = true
-language-servers = [ "astro-ls" ]
 
 [language-server.gleam-lsp]
 name = "gleam"

@@ -8,16 +8,16 @@ format ="$directory $character"
 right_format = "$time"
 
 [character] # The name of the module we are configuring is 'character'
-success_symbol = '[⏺](bold red)' # The 'success_symbol' segment is being set to '➜' with the color 'bold green'
+success_symbol = '[⬤](bold red)' # The 'success_symbol' segment is being set to '➜' with the color 'bold green'
 error_symbol = '[✗](bold red)'
 
 [directory]
 truncation_length = 200
 truncate_to_repo = false
-format = '[$path](bold yellow)'
+format = '[$path](white)'
 
 [time]
-format = '[$time](bold green)'
+format = '[$time](bold magenta)'
 disabled = false
 
 # Disable the package module, hiding it from the prompt completely

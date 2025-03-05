@@ -8,6 +8,7 @@ auto-completion = true
 auto-format = true
 color-modes = true
 cursorline = true
+rulers = [80,120]
 
 [editor.statusline]
 left = ["mode", "spinner", "file-base-name", "file-modification-indicator"]

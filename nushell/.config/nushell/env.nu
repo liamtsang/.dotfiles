@@ -109,6 +109,10 @@ path add /home/liamt/.fly/bin
 path add /home/liamt/.local/share/pnpm
 path add /home/liamt/.local/share/fnm
 
+# $env.CLOUDFLARE_API_TOKEN = "7EbuKk0q4kjEdQRy5MQLXJh7ZtGeGKyj9JZXcBbU"
+# $env.CLOUDFLARE_ACCOUNT_ID = "6f15a8824cd9137f63041853473f071f"
+$env.METIS_CONFIG = "/etc/metis/config.ini"
+
 # To load from a custom file you can use:
 # source ($nu.default-config-dir | path join 'custom.nu')
 

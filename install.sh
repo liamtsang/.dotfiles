@@ -6,6 +6,6 @@ tar xzf nu.tar.gz &&
 sudo mv nu/* /usr/local/bin/ &&
 curl -L https://github.com/biomejs/biome/releases/download/cli%2Fv1.9.4/biome-linux-x64 -o biome &&
 chmod +x biome &&
-mv biome /usr/local/biome &&
+sudo mv biome /usr/local/biome &&
 curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
 

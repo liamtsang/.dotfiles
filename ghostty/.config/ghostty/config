@@ -1,0 +1,16 @@
+theme = iTerm2 Default
+# theme = iTerm2 Solarized Dark
+# theme = Solarized Dark Higher Contrast
+# theme = tokyonight_night
+
+window-padding-x = 8
+window-padding-y = 8
+
+font-family = BerkeleyMono Nerd Font
+font-size = 14
+window-decoration = false
+command = nu
+window-padding-color = extend
+gtk-tabs-location = bottom
+background-opacity = 0.91
+window-theme = ghostty
