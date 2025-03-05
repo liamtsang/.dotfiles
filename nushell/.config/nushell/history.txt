@@ -4042,3 +4042,15 @@ rofi
 rofi -show window
 rofi -show run
 z dot
+lz
+hx .
+rofi -show ssh
+rofi -show windowcd
+rofi -terminal 
+rofi -terminal xterm
+rofi -mode drun
+rofi -show drun
+rofi -show combi
+rofi -show keys
+rofi -show filebrowser
+hx i3/.config/i3/config
