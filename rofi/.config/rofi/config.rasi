@@ -1,0 +1,10 @@
+configuration {
+    font: "Berkeley Mono NerdFont 24";
+    show-icons: true;
+    display-window: "Window";
+    display-drun: "Search";
+}
+
+listview {
+    lines: 12;
+}

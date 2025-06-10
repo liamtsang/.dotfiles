@@ -140,6 +140,12 @@ command = "gleam"
 args = ["lsp"]
 
 [[language]]
+name = "svelte"
+auto-format = true
+language-servers = [ "svelteserver", "emmet-ls", "eslint-ls" ]
+formatter = { command = "prettier", args = ["--parser", "html"]}
+
+[[language]]
 name = "gleam"
 formatter = { command = 'prettier', args = ["--parser", "astro"] }
 auto-format = true

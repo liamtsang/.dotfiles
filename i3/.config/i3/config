@@ -6,28 +6,45 @@ set $mod Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-#font pango:BerkeleyMono Nerd Font 10
-font pango:SF-Pro-Light 10
+font pango:BerkeleyMono Nerd Font 12
+#font pango:SF-Pro-Light 10
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
-
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-
 exec --no-startup-id nm-applet
 exec --no-startup-id picom --config ~/.config/picom/picom.conf --experimental-backends -b
 exec --no-startup-id ~/.config/i3/default.sh
 # exec --no-startup-id feh --bg-max ~/.dotfiles/__Images/bg/solarized/doro_sign_solarized.png --image-bg "#93a1a1"
 exec --no-startup-id feh --bg-fill ~/Pictures/gowall/alex_colville_car_pixelated_tokyo_dark.jpg
-exec thunderbird
-exec syncthing
-# exec --no-startup-id xrandr --output DP-4 --mode 2560x1440 -r 170.07
-# exec --no-startup-id xrandr --output HDMI-0 --left-of DP-4 --rotate left
 
-gaps inner 16px
-gaps outer 0px
+#gaps inner 16px
+#gaps outer 0px
 # gaps top 0px
+ 
+ 
+
+# Startup Workspaces 
+# Workspace 1:office
+assign [class="Thunderbird"] $ws1
+assign [class="Zen"] $ws1
+exec --no-startup-id zen --new-window "https://linear.app"
+exec --no-startup-id zen --new-window "https://mail.google.com/mail/u/1/"
+
+# Workspace 2: music
+assign [class="Spotify"] $ws2
+assign [class="Pavucontrol"] $ws2
+
+# Start applications with careful positioning
+exec --no-startup-id spotify
+exec --no-startup-id 'sleep 3 && i3-msg \"workspace $ws2; focus child; split vertical\"'
+exec --no-startup-id pavucontrol
+for_window [class="Pavucontrol"] resize set height 20 ppt
+
+# Workspace 10: gaming?
+assign [class="Steam"] $ws10
+
 
 # Solarized
 # class                 border    bground   text    indicator child_border
@@ -56,20 +73,20 @@ bar {
     separator  #666666
 
     #Solarized Theme
-    #background #00141AE6
+    # background #00141AE6
     #class             border  bground text
-    #focused_workspace  #BAFB00 #BAFB00 #1A1E2A
-    #active_workspace   #002B36 #596600 #FFFFFF
-    #inactive_workspace #073642 #002B36 #ADB8B8
-    #urgent_workspace   #B7211F #B7211F #FFFFFF
-    #binding_mode       #2F343A #900000 #FFFFFF
+    # focused_workspace  #BAFB00 #BAFB00 #1A1E2A
+    # active_workspace   #002B36 #596600 #FFFFFF
+    # inactive_workspace #073642 #002B36 #ADB8B8
+    # urgent_workspace   #B7211F #B7211F #FFFFFF
+    # binding_mode       #2F343A #900000 #FFFFFF
 
     #Dark Theme
-    background #141414
+    background #141414E6
     #class              border  bground text
     focused_workspace  #BAFB00 #BAFB00 #1A1E2A
     active_workspace   #002B36 #596600 #FFFFFF
-    inactive_workspace #1C1B1D #141414 #ADB8B8
+    inactive_workspace #1C1B1D #000000 #ADB8B8
     urgent_workspace   #B7211F #B7211F #FFFFFF
     binding_mode       #2F343A #900000 #FFFFFF
   }
@@ -157,16 +174,16 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
+set $ws1 "1:office"
+set $ws2 "2:music"
+set $ws3 "3:browser"
+set $ws4 "4:editor"
 set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
-set $ws10 "10"
+set $ws10 "10:games"
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -225,3 +242,16 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
+
+set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
+mode "$mode_system" {
+    bindsym l exec --no-startup-id i3lock -c 000000, mode "default"
+    bindsym e exec --no-startup-id i3-msg exit, mode "default"
+    bindsym s exec --no-startup-id systemctl suspend, mode "default"
+    bindsym h exec --no-startup-id systemctl hibernate, mode "default"
+    bindsym r exec --no-startup-id systemctl reboot, mode "default"
+    bindsym Shift+s exec --no-startup-id systemctl poweroff -i, mode "default"
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+bindsym $mod+Pause mode "$mode_system"

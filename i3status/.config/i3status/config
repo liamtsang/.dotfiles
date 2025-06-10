@@ -1,8 +1,5 @@
 order += "read_file GITHUB"
-order += "ethernet enp2s0"
-order += "memory"
 order += "disk /home"
-order += "volume master"
 order += "read_file UPTIME"
 order += "read_file I3AGENDA"
 order += "tztime local"
@@ -19,10 +16,6 @@ disk "/home" {
 tztime local {
 	format = "<span color='#FFE999'>%m-%d</span> <span color='#FFC100'>%H:%M:%S</span>"
 }
-ethernet enp2s0 {
-	format_up = "E: %ip (%speed)"
-	format_down = "E: down"
-}
 memory {
 	format = "%used/%total"
 }
@@ -34,12 +27,12 @@ volume master {
     mixer_idx = 0
 }
 read_file UPTIME {
-	color_good = "#ffffff"
+	color_good = "#ADB8B8"
 	format = "%content"
 	path = "~/Scripts/outputs/i3status-uptime-output"
 }
 read_file I3AGENDA{
-	color_good = "#ffffff"
+	color_good = "#FFFFFF"
 	format = "%content"
 	path = "~/Scripts/outputs/i3status-gcal-output"
 }

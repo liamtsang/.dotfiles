@@ -4054,3 +4054,1878 @@ rofi -show combi
 rofi -show keys
 rofi -show filebrowser
 hx i3/.config/i3/config
+lz
+man rofi
+cd molar
+z mol
+ls
+z mol
+hx .
+pnpm dev
+pnpm run deploy
+lz
+ls
+z act
+hx .
+lz
+npm run deploy
+z mol
+hx .
+lz
+npm run deploy
+hx .
+npm run deploy
+nx .
+hx .
+npm run deploy
+pnpm dev
+npm run deploy
+ls
+z mol
+hx .
+pnpm run deploy
+lz
+ls
+z mol
+hx .
+lz
+pnpm run deploy
+hx .
+lz
+pnpm run deploy
+hx .
+cd ..
+ls
+cd tiptop-hono/
+ls
+hx wrangler.jsonc
+touch database.sql
+hx database.sql
+git remote add origin https://github.com/liamtsang/tiptop-hono.git
+git branch -M main
+lz
+z metis
+hx .
+z metis
+hx .
+ls
+cd Downloads/
+./Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+ls
+z metis
+lz
+ls
+cd scripts/
+ls
+pcmanfm .
+lz
+cd ..
+rm -rf metis
+sudo rm -rf metis
+ls
+g
+git clone https://github.com/rustybeetle-dev/metis.git
+ls
+cd metis/
+ls
+cd ..
+ls
+pcmanfm .
+lz
+cd metis/
+lz
+z mol
+hx .
+ls
+z mol
+pnpm run dev
+ls
+z metis
+ls
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+./Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+hx scripts/dev_startup.py
+hx scripts/dev_startup_deb.py
+python3 ./scripts/dev_startup_deb.py
+ls
+cd angular/
+npm i
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+cd ..
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+cd ..
+cd metis/angular/
+ls
+hx tsconfig.app.json
+hs tsconfig.json
+cd ..
+python3 ./scripts/dev_startup_deb.py
+cd angular/
+npm i chart.js
+cd ..
+python3 ./scripts/dev_startup_deb.py
+ls
+cd Websites/
+cd metis/
+lz
+ls
+cd metis/
+z metis
+lz
+z Downloads/
+./Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+sudo apt install -y wmctrl x11-utils bash
+./Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+arandr
+sudo apt install arandr
+arandr
+steam
+z metis
+ls
+python3 ./scripts/dev_startup_deb.py
+ls
+z down
+./Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage
+lz
+z met
+lz
+ls
+cd Downloads/
+ls
+echo $env
+echo $env.PATH
+sudo pcmanfm .
+ls
+z hono
+ls
+hx wrangler.jsonc
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+npm install --save-dev wrangler@4
+sudo npm install -g wrangler@4
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+hx database.sql
+hx wrangler.jsonc
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+ip addr
+curl ifconfig.me
+ifconfig
+hostname
+hostname -I | awk '{print $1}'
+hx .
+z metis
+lz
+z metis
+lz
+z dot
+hx picom/.config/picom/picom.conf
+z dot
+hx ghostty/
+hx ghostty/.config/ghostty/config
+z metis
+z hono
+npm i hono zod @hono/zod-openapi
+z .
+npm i @fiberplane/hono
+npm i @fiberplane/hono --legacy-peer-deps
+z hono
+hx .
+npm run dev
+z hono
+lz
+curl -f https://zed.dev/install.sh | sh
+zed
+ls
+wheris zed
+whereis zed
+cd /home/liamt/.local/bin/
+ls
+rm zed
+ls
+cd ..
+sudo curl -f https://zed.dev/install.sh | sh<\n>
+zed
+curl -f https://zed.dev/install.sh | ZED_CHANNEL=preview sh
+zed
+zeditor
+zed
+ls
+cd Websites/
+ls
+flatpak install flathub dev.zed.Zed
+cd tiptop-hono/
+ls
+hx database.sql
+flatpak run dev.zed.Zed
+z metis
+python3 ./scripts/dev_startup_deb.py
+lz
+z metis
+lz
+z metis
+lz
+zed
+ls
+zed --
+zed --help
+zed --foreground
+sudo apt install vulkan-icd-loader vulkan-intel
+sudo apt install vulkan
+$env.RUST_BACKTRACE = 1
+zed --foreground
+sudo apt install libvulkan-dev
+sudo apt install libvulkan1
+zed
+zed --foreground
+sudo apt insatll vulkan-intel
+zed
+zed --foreground
+vulkaninfo
+sudo apt install vulkaninfo
+flatpak run dev.zed.Zed
+flatpak run dev.zed.Zed --foreground
+z hono
+npm run dev
+ls
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+ls
+z top
+z topi
+z top-i
+ls
+lz
+ls
+z top
+npx prisma migrate dev --name add_tagline_content
+npx prisma studio
+npx prisma generate
+npm run dev
+lz
+lz
+npm run dev
+npm run build
+npm run start
+lz
+npx prisma generate
+lz
+z tiptop
+z tiptop-da
+npm run dev
+npx shadcn@latest add dialog<\n>
+npx shadcn@latest add toast<\n>
+npx shadcn@latest add scroll-area
+ls
+z tiptop-ho
+hx database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+npm run dev
+npm run
+npm run preview:worker
+npm run
+npm run dev:worker
+wrangler d1 execute metafield_size_mappings --file=./metafields-database.sql --remote
+wrangler d1 execute metafield_size_mappings --file=./metafields-database.sql
+npm run dev:worker
+npx wrangler types --experimental-include-runtime
+npm run dev:worker
+npm run preview:worker
+ls
+z tiptop-ho
+lz
+z metis
+ls
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py
+python3 ./scripts/dev_startup_deb.py
+ls
+cd hono
+z hono
+lz
+ls
+z tiptop-da
+lz
+ls
+z metis
+lz
+caffeinate 
+sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target<\n>
+z top-i
+lz
+z top-i
+lz
+z top-i
+lz
+ls
+z metis
+python3 ./scripts/dev_startup_deb.py
+z tiptop-h
+npm run dev
+lz
+z tiptop-h
+npm run dev
+ls
+python -m pip install aider-install
+python3 -m pip install aider-install
+pipx install aider-install
+aider
+aider-install
+aider
+ls
+z tiptop-h
+aider
+z ~
+ls
+touch .aider.conf.yaml
+hx .aider.conf.yaml
+aider
+hx .aider/
+mv .aider.conf.yaml .aider.conf.yml
+aider
+steam
+z metis
+python3 -m pip install aider-install
+python3 ./scripts/dev_startup_deb.py
+ls
+z metis
+npm run dev
+z tip
+npm run dev
+z tip-ho
+z tip
+lz
+npm run preview:worker
+ls
+cd Websites/
+ls
+npx sv create portfolio-2025
+cd portfolio-2025/
+lz
+git init
+npm run dev -- --open
+z port
+npm i @neodrag/svelte<\n>
+cd src/lib
+ls
+touch project-card.ts
+hx .
+pcmanfm .
+npm run dev
+ls
+cd Websites/
+ls
+cd tiptop-dashboard/
+ls
+npm run dev
+lz
+z tip-ho
+z hono
+npm run
+npm run dev:worker
+npm run preview:worker
+npm run dev
+npm run preview:worker
+lz
+z tip
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+npm run preview:worker
+npm run dev
+lz
+ls
+z por
+z port
+npm run dev
+z port
+lz
+git remote add origin https://github.com/liamtsang/Portfolio.git
+git fetch
+git checkout -b 2025
+git push -u origin 2025
+lz
+hx .
+lz
+   z port
+lz
+z port
+npm run de
+npm install -g svelteserver
+sudo npm install -g svelte-language-server
+svelteserver
+z port
+lz
+z port
+npm run dev
+hx .
+lz
+stema
+z metis
+lz
+z tip-top
+z tip-h
+z ho
+l
+lz
+npm run dev
+npm run deploy
+npm run dev
+npm run deploy
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+npm run deploy
+z tiptop-d
+lz
+lz
+npm run dev
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+npm run deploy
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+npm run deploy
+lz
+z tiptop-d
+lz
+npm run worker:deploy
+npm run deploy:worker
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+npm run deploy:worker
+npm run deploy
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+wrangler d1 execute metafield_size_mappings --file=./database.sql --remote
+lz
+npm run deploy
+npm run deploy:worker
+ls
+cd Websites/
+ls
+cd ..
+ls
+git clone https://github.com/feel-studio/feelsite.git
+cd feelsite/
+npm i
+npm install && npm run dev
+hx .
+qls
+ls
+z port
+ls
+cd Websites/
+ls
+cd tiptop-dashboard/
+lz
+npm run deploy:worker
+hx .
+npm run deploy:worker
+npm install; npm run dev
+z port
+hx .
+npm run dev
+npm run dev
+ls
+z port
+z lib
+touch clock.svelte
+ls
+stea
+npm run dev
+lz
+hx .
+npm run dev
+lz
+ls
+z feel
+ls
+touch .env
+hx .env
+npm run dev
+npm run
+npm run build
+npm run build start
+npm run start
+npm run build
+npm run start
+npm run build; npm run start
+lz
+ls
+lz
+ls
+cd .git
+ls
+rm index.lock
+cd ..
+lz
+ls
+cd .git/
+ls
+rm index.lock
+ls
+cd ..
+cd .git/
+ls
+cd ..
+lz
+ls
+cd .git
+ls
+cd ..
+git checkout -b liam-perf
+git add .
+rm /home/liamt/Websites/feelsite/.git/index.lock
+git add .
+git commit -m "staticProps"
+git push
+git push --set-upstream origin liam-perf
+npm
+npm run
+z feel
+hx .env
+npm run build
+hx .
+ls
+ls -a
+cd ./next
+ls
+cd /.next
+cd ./.next
+ls
+cd ..
+ls
+hx .
+cd ..
+git clone https://github.com/liamtsang/feelsite-perf.git
+cd feelsite-perf/
+ls
+hx .
+npm run build; npm run start
+npm i
+npm run build; npm run start
+z fel
+z feel
+hx .
+hx .env
+npm run build; npm run start
+lz
+hx 
+ls
+cd ./.next
+ls
+cd server/
+ls
+cd pages/
+ls
+hx index
+hx .
+cd ..
+hx next.config.mjs
+hx .
+lz
+hx .
+lz
+hx .
+npm run build; npm run start
+hx .
+lz
+hx .
+lz
+hx .next/
+hx .
+hx .next/
+lz
+z feel
+cd ..
+cd feelsite-perf/
+lz
+npm run build; npm run start
+lz
+ls
+z feel
+ls
+git checkout -b main a674b45
+git checkout -b blockrevert a674b45
+npm run build; npm run start
+npm run build; npm run start
+npm run start
+lz
+npm run build; npm run start
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+ls
+z metis
+git pull
+git checkout -b liamt-sidebar
+ls
+z metis
+ls
+cd angular/
+ng generate component
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+ls
+cd angular/
+ng generate component
+ng generate component sidebar/sidebar-item
+ng generate component sidebar/sidebar-subheader
+ls
+z port
+     z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+ls
+z metis
+ls
+cd .git
+ls
+rm index.lock
+cd ..
+lz
+z metis
+ls
+cd .git/
+ls
+ls -a
+cd ..
+lz
+z feel
+lz
+z port
+hx .
+lz
+z metis
+lz
+npm run dev
+ls
+z feel
+lz
+hx .
+git revert --no-commit c96430c
+lz
+c96430c
+npm run build; npm run start
+lz
+git checkout -f c96430c
+lz
+hx .
+lz
+z feel
+hx .
+fkill
+steam
+      ls
+z feel
+ls
+c d..
+cd ..
+ls
+cd feelsite-perf/
+ls
+cd .next
+ls
+cd server
+ls
+cd ..
+cd static
+ls
+cd ..
+ls
+cd server
+ls
+cd pages
+ls
+cd index
+ls
+dc ..
+cd ..
+ls
+hx index.js
+lz
+z perf
+lz
+z perf
+npm run build; npm run start
+npm i nextjs@13.4.9
+npm i 
+rm -rf .next
+rm -rf node_modules
+npm install
+z perf
+ls
+cd ..
+rm -rf feelsite-perf/
+ls
+npm run build; npm run start
+cd feelsite/
+lz
+cd
+hx .
+npm i
+rm -rf .next
+rm -rf node_modules
+npm install
+npm run build
+lz
+hx .
+lz
+hx .
+lz
+hx .
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+ls
+z metis
+cd angular
+ng generate component next/initial-question
+ng generate component build/next/initial-question
+z metis
+lz
+feh --bg-fill ~/Pictures/alariko-gg-khjwwgaaakoi.jpg
+fkill
+z metis
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+fkill
+steam
+stema
+hx .
+:
+ls
+z Downloads/
+sudo dpkg -i ./helix_25.1.1-1_amd64.deb
+hx .
+helix 
+hx .
+hx --version
+hx .
+z metis
+hx .
+stea,
+ls
+z hono
+wrangler do
+npm run dev
+fkill
+npm run dev
+wrangler tail
+z hono
+wrangler tail
+z hono
+hx .
+z hono
+npm run dev
+ls
+cd Websites/
+ls
+npm create cloudflare@latest -- tiptop-queue-consumer
+hx .
+ls
+cd tiptop-queue-consumer/
+z queue
+z hono
+npm run dev
+:w
+npm run dev
+npm run dev
+npx wrangler queues
+npx wrangler queues list
+npx wrangler queues create convert-metafields-queue
+npm run dev
+npx wrangler queues list
+npx wrangler queues
+npx wrangler queues consumer
+npx wrangler queues create
+npm run dev
+npx wrangler queues list
+npm run
+hx .
+npm run deploy
+npm run deploy
+z metis
+python3 ./scripts/dev_startup_deb.py
+hx .
+z queue
+hx .
+npm i @shopify/shopify-api f:q
+hx .
+npm install @shopify/admin-api-client -s
+z hono
+npm run dev
+npm run deploy
+npm run deploy
+hx .
+hx .
+npm i hono
+npm run deploy
+hx .
+npm run dev
+wrangler d1 execute metafield_size_mappings --file=./database.sql
+npm run dev
+wrangler queus
+wrangler queue
+wrangler queues
+wrangler queues list
+wrangler queues info convert-metafields-queue
+npm run dev
+npm run dev
+npm run deploy
+npm run deploy
+ls
+cd Websites/
+ls
+cd tiptop-queue-consumer/
+z consumer
+npm run dev
+npm run deploy
+z hono
+lz
+z hono
+npm run deploy
+npm run dev
+npm run deploy
+npm run dev
+npm run deploy
+hx .
+hx .
+z metis
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+sudo apt install obsidian
+z donw
+z down
+sudo dpkg -i ./obsidian_1.8.9_amd64.deb
+fkill
+obs
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metia
+z metis
+lz
+z metis
+lz
+z consumer
+npm run dev
+npm run deploy
+npm run dev
+fkill
+z doc
+ls
+rm -rf `Obsidian Vault/`
+git clone https://github.com/kepano/kepano-obsidian.git
+ls
+z ghos
+ls
+npm run dev
+ls
+hx config
+z port
+lz
+fkill
+ls
+cd Websites/
+ls
+cd tiptop-queue-consumer/
+npm run deploy
+lz
+z molar
+hx .
+z port
+lz
+npm run dev
+z port
+z tiptop-hono
+z queue
+hx .
+hx .
+npm run deploy
+npm run deploy
+z queue
+hx .
+cd src
+ls
+cd shopify/
+touch bulk.ts
+cd ..
+fkill
+z queue
+z quee
+z queue
+hx .
+z queue
+npm run deploy
+npm run dev
+npm run deploy
+z top
+z act
+z act
+npm run dev
+npm run deploy
+hx .
+z queue
+z molar
+fkill
+npm run dev
+hx .
+lz
+npm run deploy
+npm run dev
+npm run deploy
+z molar
+hx .
+z molar
+npm run dev
+npm run deploy
+npm run dev
+npm run deploy
+llz
+lz
+z molar
+hx .
+npm run dev
+npm run deploy
+lz
+npm run deploy
+lz
+npm run deploy
+lz
+npm run deploy
+lz
+npm run deploy
+ls
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+npm run dev
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+fkill 
+z molar
+npm run dev
+npm run deploy
+fkill
+z queu
+z web
+git clone https://github.com/liamtsang/tiptop-cron-worker
+z tiptop-cron-worker/
+hx .
+npm run deploy
+lz
+z metis
+ls
+cd angular/
+ls
+ng 
+ng generate
+ng generate service help/help-service
+ng generate service help/service
+ng generate service help/help
+ng generate component help/help
+ng generate component help/
+z metis
+lz
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+lz
+cd angular
+npm run i
+npm run install
+npm i
+cd ..
+python3 ./scripts/dev_startup_deb.py
+z metuis
+z metis
+lz
+cd angula
+cd angular
+npm i
+cd ..
+python3 ./scripts/dev_startup_deb.py
+z angular
+ng generate component help/
+ng generate service help/help
+npm install ngx-markdown marked@^15.0.0 --save
+npm install ngx-markdown marked --save
+npm install ngx-markdown@15.1.0 marked --save
+cd ..
+python3 ./scripts/dev_startup_deb.py
+cd metis
+python3 ./scripts/dev_startup_deb.py
+lz
+python3 ./scripts/dev_startup_deb.py
+lz
+python3 ./scripts/dev_startup_deb.py
+z metis
+python3 ./scripts/dev_startup_deb.py
+z queeu
+z qu
+hx .
+fkill
+sudo apt install sway
+sway
+sway --unsupported-gpu
+sudo sway --unsupported-gpu
+sudo apt install awesomewm
+sudo apt install awesome
+sudo logout
+sudo i3-msg exit
+z dot
+hx i3/.config/i3/default.sh
+fkill
+i3-msg exec --no-startup-id thunderbird<\n>
+i3-msg exec firefox
+i3-msg exec firefox-nightly
+i3-msg exec firefox-nightly --new-window
+sudo i3-msg exit
+z dot
+i3-msg exit
+z dot
+hx i3/.config/i3/default.sh
+i3-msg exit
+z dot
+hx i3/.config/i3/config
+cd i3/.config/i3/config
+cd i3/.config/i3/
+ls
+touch spotify_layout.json
+hx spotify_layout.json
+z dot
+fkill
+z dot
+ts
+typescript
+python3
+ls
+z dot
+hx i3/.config/i3/config
+z metis
+hx 
+z metis
+python3 ./scripts/dev_startup_deb.py
+sudo apt install tmux
+z metis
+python3 ./scripts/dev_startup_deb.py
+hx scripts/
+z dot
+steam
+hx i3/.config/i3/config
+z script
+i3-agenda
+pipx install i3-agenda
+i3-agenda -c ~/Scripts/google_credentials.json | save -f ~/Scripts/outputs/i3status-gcal-output<\n>
+i3-agenda -c ~/Scripts/google_credentials.json | save -f ~/Scripts/outputs/i3status-gcal-output
+touch cron
+hx i3status-gcal.nu
+whereis nu
+/usr/local/bin/nu /usr/local/bin/nu/i3status-uptime.nu<\n>
+/usr/local/bin/nu /usr/local/bin/nu/i3status-uptime.nu
+crontab -e
+1 * * * * /usr/local/bin/nu /home/liamt/Scripts/i3status-uptime.nu<\n>
+/usr/local/bin/nu /home/liamt/Scripts/i3status-uptime.nu<\n>
+uptime
+uptime -p
+let uptime = (uptime -p)<\n>let days = (echo $uptime | grep -oP '\d+(?= day)')<\n>let hours = (echo $uptime | grep -oP '\d+(?= hour)')<\n>let minutes = (echo $uptime | grep -oP '\d+(?= minute)')<\n><\n>let formatted_uptime = ""<\n>if $days != "" {<\n>  let formatted_uptime = $'($days)d'<\n>}<\n>let formatted_uptime = $"($formatted_uptime)($hours)h ($minutes)m"<\n><\n>echo $formatted_uptime | save -f ~/Scripts/outputs/i3status-uptime-output<\n>
+let uptime = (uptime -p)<\n>let days = (echo $uptime | grep -oP '\d+(?= day)')<\n>let hours = (echo $uptime | grep -oP '\d+(?= hour)')<\n>let minutes = (echo $uptime | grep -oP '\d+(?= minute)')<\n><\n>let formatted_uptime = ""<\n>if $days != "" {<\n>  let formatted_uptime = $'($days)d'<\n>}<\n>let formatted_uptime = $"($formatted_uptime)($hours)h ($minutes)m"<\n><\n>echo $formatted_uptime
+let uptime = (uptime -p)<\n>let days = (echo $uptime | grep -oP '\d+(?= day)')<\n>let hours = (echo $uptime | grep -oP '\d+(?= hour)')<\n>let minutes = (echo $uptime | grep -oP '\d+(?= minute)')<\n><\n>let formatted_uptime = ""<\n>if $days != "" {<\n>  let formatted_uptime = $'($days)d'<\n>}<\n>let formatted_uptime = $"($formatted_uptime)($hours)h ($minutes)m"<\n><\n>echo $days
+let uptime = (uptime -p)<\n>let days = (echo $uptime | grep -oP '\d+(?= day)')<\n>let hours = (echo $uptime | grep -oP '\d+(?= hour)')<\n>let minutes = (echo $uptime | grep -oP '\d+(?= minute)')<\n><\n>let formatted_uptime = ""<\n>if $days != "" {<\n>  let formatted_uptime = $'($days)d'<\n>}<\n>let formatted_uptime = $"($formatted_uptime)($hours)h ($minutes)m"<\n><\n>echo $uptime
+grep
+echo uptime
+uptime
+uptime -p
+let uptime = (uptime -p)                                                                   00:16:59<\n>∙ let days = (echo $uptime | grep -oP '\d+(?= day)')
+let uptime = (uptime -p)                            let days = (echo $uptime | grep -oP '\d+(?= day)')
+let uptime = (uptime -p)                            ; let days = (echo $uptime | grep -oP '\d+(?= day)')
+echo uptime
+let uptime = (uptime -p); echo $uptime
+let days = (echo $uptime | grep -oP '\d+(?= day)')
+ehco $days
+echo $days
+let days = (echo $uptime | grep -oP '\d+(?= day)'); echo $days;
+z dot
+tmux attach -t metis
+crontab -e
+/usr/local/bin/nu /home/liamt/Scripts/i3status-gcal.nu
+tmux attach -t metis
+ls
+fkill
+xrandr
+arandr
+z i3
+hx .config/i3/default.sh
+xrandr --output DP-4 --r 170.07
+xrandr --output DP-4 -r 170.07
+xrandr
+xrandr --output DP-4 --rate 170
+xrandr
+xrandr --output DP-4 --rate 170.07
+xrandr
+xrandr --output DP-4 --rate 165
+xrandr --output DP-4 --rate 165.00
+xrandr
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+fkill
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+python3 ./scripts/dev_startup_deb.py
+crontab -e
+z dot
+hx tmux/
+hx tmux/.tmux.conf
+z metis
+python3 ./scripts/dev_startup_deb.py
+cd /home/liamt/Websites/metis/python && clear && echo "Starting Flask..." && python3 app.py
+z dot
+hx tmux/.tmux.conf
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+git 
+git restore
+git branch
+git drop
+git reset --hard HEAD^
+lz
+cd .
+cd ..
+rm -rf metis
+git clone https://github.com/rustybeetle-dev/metis.git
+z metis
+cd angular
+npm i
+python3 ./scripts/dev_startup_deb.py
+cd ..
+python3 ./scripts/dev_startup_deb.py
+tmux attach -t metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+python3 ./scripts/dev_startup_deb.py
+zellij
+bash <(curl -L https://zellij.dev/launch)
+bash (curl -L https://zellij.dev/launch | psub)
+z down
+tar -xzf zellij-x86_64-unknown-linux-musl.tar.gz
+ls
+zellij
+chmod +x ./zellij
+ls
+helpo
+help
+zellij zelp
+zellij --h
+zellij -help
+./zellij
+mv ./zellij /usr/local/bin/zellij
+sudo mv ./zellij /usr/local/bin/zellij
+lz
+git checkout liamt-sidebar
+git pull
+lz
+ls
+cd scripts/
+ls
+hx dev_startup_deb.py
+cd ..
+python3 ./scripts/dev_startup_deb.py
+hx .
+python3 ./scripts/dev_startup_deb.py
+zellij -session
+zellij --session
+zellij --session metis
+z metis
+python3 ./scripts/dev_startup_deb.py
+hx scripts/
+python3 ./scripts/dev_startup_deb.py
+ghostty --help
+ghostty +list-actions
+ghostty -e
+ghostty -e top
+z metis
+python3 ./scripts/dev_startup_deb.py
+hx scripts/
+hx scripts/cd angular/
+cd angular
+npm i
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+tmux attach -t metis
+z metis
+ls
+cd angular
+npm i ngx-markdown marked@11.0.1 --save
+npm i ngx-markdown@11.0.1 marked --save
+npm i ngx-markdown@15.2.9 marked --save
+npm i ngx-markdown@15.1.0 marked --save
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+z mol
+hx .
+lz
+npm run deploy
+fkill
+sudo apt install cava
+cava
+cava --help
+cava -p
+cava
+cava -p ~/.config/cava/config
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+cava -p ~/.config/cava/config
+xrandr
+xrandr --output DP-4 --mode 2560x1440 --rate 59.95
+xrandr
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+systemctl hibernate
+sudo systemctl hibernate
+systemctl suspend
+sudo systemctl suspend
+bash systemctl list-unit-files | grep suspend 
+sudo systemctl hybrid-sleep
+polkit
+bash sudo nano /etc/polkit-1/localauthority/50-local.d/enable-suspend.pkla 
+sudo nano /etc/polkit-1/localauthority/50-local.d/enable-suspend.pkla 
+cd ..
+ls
+sudo hx /etc/polkit-1/localauthority/50-local.d/enable-suspend.pkla 
+bash sudo systemctl restart polkit 
+sudo systemctl restart polkit
+systemctl suspend
+sudo systemctl suspend
+journalctl -xe
+whoami
+visudo
+sudo apt install visudo
+sudo apt install polkit
+systemctl hibernate
+systemctl suspend
+sudo reboot
+fkill
+z metis
+python3 ./scripts/dev_startup_deb.py
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+z metis
+cd angular
+ng add @angular/youtube-player
+z metis
+lz
+steam
+fkill
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+z ac
+npm install @tiptap/extension-image
+ls
+z ac
+npm run dev
+npm run
+npm run preview
+lz
+npm run deploy
+xrandr --output DP-4 --mode 2560x1440 --rate 165.00
+/usr/local/bin/nu /home/liamt/Scripts/i3status-gcal.nu
+/usr/local/bin/nu /home/liamt/Scripts/i3status-uptime.nu
+z metis
+python3 ./scripts/dev_startup_deb.py
+lz
+hx .
+z metis
+lz
+hx .
+ls
+z tiptop-q
+npm run deploy
+z angl
+z ang
+ng
+ng --help
+ng component
+ng generate component scenarios/scenario-picker
+xdpyinfo | grep -B 2 resolution<\n><\n>
+xrdb
+xrandr --dpi
+xrandr --dpi 192
+xrandr --dpi 400
+xrandr --dpi 192
+hx ~/.profile
+ls
+hx ~/.Xresources
+z dot
+hx i3/.config/i3/config
+xrandr --scale '1.14x1.14'
+xrandr --output DP1 --scale '1.14x1.14'
+xrandr --output DP2 --scale '1.14x1.14'
+xrandr --output DP4 --scale '1.14x1.14'
+xrandr
+xrandr --output DP-4 --scale '1.14x1.14'
+ls
+xrandr --output DP-4 --scale '1.33x1.33'
+z dot
+hx i3/.config/i3/config
+hx i3/.config/i3/default.sh
+z dot
+ls
+z metis
+python3 ./scripts/dev_startup_deb.py
+z que
+typescript
+ts
+tsx
+z queue
+npm run 
+npm run dev
+hx .
+steam
+z dot
+hx i3/.config/i3/default.sh
+z metis
+python3 ./scripts/dev_startup_deb.py
+z que
+npm run deploy
+z cron
+hx .
+hx i3/.config/i3/config
+ls
+crontab -e
+nu /home/liamt/Scripts/i3status-gcal.nu
+z hono
+hx .
+npm run deploy
+lz
+z cron
+lz
+z queue
+npm run dev
+lz
+npm run deploy
+z metis
+python3 ./scripts/dev_startup_deb.py
+hx .
+z metis
+lz
+z metis
+cd angular
+npm install angular-resizable-element
+z port
+ls
+cd Websites/
+ls
+cd xlist/
+ls
+cd ..
+wrangler
+wrangler -v
+npm install -g wrangler
+sudo npm install -g wrangler
+cd Websites/
+npm create hono@latest -- my-app
+npm create hono@latest -- xlist-hono
+cd xlist-hono/
+hx .
+git init
+npm run dev
+z xlist-h
+hx .
+npm i @fiberplane/hono
+npm run dev
+hx .
+cd ..
+rm -rf xlist-hono/
+npm create hono@latest -- xlist-hono
+cd xlist-hono/
+hx .
+git init
+npm i @fiberplane/hono
+npm run dev
+ls
+cd src
+ls
+mkdir automations
+mkdir hyperbrowser
+cd automations/
+ls
+touch grailed.ts
+cd ..
+cd hyperbrowser/
+touch browser.ts
+npm install playwright-core @hyperbrowser/sdk dotenv
+wrangler types
+ls
+cd src/
+ls
+touch types.ts
+z dot
+hx helix/.config/helix/config.toml
+npm install playwright
+npm install @playwright/test
+hx .
+z xlist-h
+npm run dev
+npm install '@cloudflare/playwright';
+npm run dev
+hx .
+z 
+npm i hono zod @hono/zod-openapi
+z xlist-hono
+ls
+cd src
+ls
+touch routes
+cd routes
+rm routes
+mkdir routes
+cd routes/
+ls
+touch /api/route/login.ts
+mkdir api
+cd api
+mkdir grailed
+cd grailed/
+touch login.ts
+npm run dev
+npm i @cloudflare/puppeteer
+cd ..
+@cloudflare/puppeteer
+npm i @cloudflare/puppeteer
+npm i @cloudflare/puppeteer --force
+hx .
+npm run dev
+z metis
+python3 ./scripts/dev_startup_deb.py
+lz
+z metis
+lz
+z top
+z topim
+cd ..
+ls
+cd top-i
+cd top-image-services/
+lz
+ls
+z top-i
+npm run dev
+hx .
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+lz
+z metis
+lz
+z metis
+lz
+z xl
+z xlist-hono
+z xlist-hono
+npm run dev
+lz
+npm run dev
+z act
+hx .
+lz
+npm run deploy
+z metis
+lz
+z metis
+cd angular
+ng add @angular/localize
+ng extract-i18n
+python3 ./scripts/dev_startup_deb.py
+ng add @jsverse/transloco
+ng --version
+bg
+ng --help
+ng version
+ng add @jsverse/transloco@^4.0.0
+ng add @jsverse/transloco@^4
+npm install @ngneat/transloco@^4.0.0
+z metis
+lz
+ls
+cd Websites/
+npm create cloudflare@latest -- --template=cloudflare/templates/openauth-template
+cd openauth/
+npm run dev
+npm i; npm run dev
+npm run dev
+ls
+bat README.md
+hx .
+npx wrangler d1 create openauth-template-auth-db
+npx wrangler d1 migrations apply --remote openauth-template-auth-db
+npx wrangler kv namespace create AUTH_STORAGE
+hx .
+npx wrangler d1 migrations apply openauth-template-auth-db
+npm run dev
+cd ..
+rm -rf openauth/
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+z metis
+lz
+z top
+lz
+z top
+hx .
+lz
+z top
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+fkill
+python3 ./scripts/dev_startup_deb.py
+python3 ./scripts/dev_shu
+npm run dev
+python3 ./scripts/dev_shutdown_deb.py --drop-tables
+python3 ./scripts/dev_startup_deb.py
+lx
+z metis
+lz
+z metis
+lz
+z metis
+lz
+z metis
+lz
+git checkout git checkout HEAD -- python/routes/tools/upload.py python/db_access/upload_manager.py
+git checkout HEAD -- python/routes/tools/upload.py python/db_access/upload_manager.py
+lz
+git reset --soft HEAD^
+git restore --staged python/routes/tools/upload.py python/db_access/upload_manager.py
+lz
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+rofi
+z dot
+ls
+mkdir rofi
+cd rofi/
+mkdir .config
+cd .config/
+z dot
+mkdir rofi
+cd rofi/
+touch config.rasi
+cd ..
+stow rofi
+hx rofi/.config/rofi/config.rasi
+z web
+ls
+mv portfolio-2025/ ./portfolio-2025-cutting-board
+npx sv create portfolio-2025
+cd portfolio-2025/
+git init && git add -A && git commit -m "Initial commit"
+git init; git add -A && git commit -m "Initial commit"
+git init; git add -A; git commit -m "Initial commit"
+z port
+ls
+cd src
+ls
+cd routes
+ls
+touch +layout.svelte
+hx ls
+cd ..
+ls
+cd src/
+touch styles.css
+ls
+cd routes/
+ls
+mkdir work
+mv +page.svelte ./work/+page.svelte
+cd work/
+ls
+touch +page.ts
+z port
+cd ..
+cd portfolio-2025-cutting-board/
+hx .
+lz
+cd ..
+ls
+cd lib
+ls
+touch types.ts
+z port
+hx --health
+hx .
+z dot
+hx helix/.config/helix/languages.toml
+cd src/
+ls
+cd routes/
+ls
+mkdir about
+mkdir blog
+cd about/
+touch +page.svelte
+cd ..
+cd blog/
+touch +page.svelte
+hx i3/.config/i3/config
+hx picom/.config/picom/picom.conf
+hx ghostty/.config/ghostty/config
+hx .
+z port
+z feel
+npm run dev
+lz
+z feel
+npm run dev
+npm i -D @sveltejs/adapter-static
+ls
+cd routes/
+ls
+touch +layout.js
+npm run
+npm run preview
+npm run build; npm run preview
+hx .
+lz
+claude
+lz
+claude
+npm run dev
+cd ..
+cd .
+lz
+cd ..
+lz
+z metis
+python3 ./scripts/dev_startup_deb.py
+fkill
+z metis
+python3 ./scripts/dev_startup_deb.py
+z top
+spot
+spotify 
+snap install spt
+sudo snap install spt
+fkill
+cd Scripts/
+touch website_blocker.sh
+touch setup_cron.sh
+hx .
+sudo cp website_blocker.sh /usr/local/bin/
+sudo chmod +x /usr/local/bin/website_blocker.sh
+sudo ./setup_cron.sh
+ls
+sh sudo ./setup_cron.sh
+sudo sh ./setup_cron.sh
+crontab -l
+crontab -e
+crontab -l
+website_blocker.sh 
+sudo website_blocker.sh block
+sudo website_blocker.sh status
+sudo website_blocker.sh unblock
+sudo website_blocker.sh block
+bat /etc/hosts
+ping facebook.com
+hx /usr/local/bin/website_blocker.sh
+sudo hx /usr/local/bin/website_blocker.sh
+website_blocker.sh ublock
+sudo website_blocker.sh unblock
+sudo website_blocker.sh block
+sudo website_blocker.sh unblock
+fkill
+steam
+fkill
+steam
+fkill
+bat /etc/hosts
+cd /usr/local/bin/
+ls
+website_blocker.sh unblock
+sudo website_blocker.sh unblock
+feh --bg-fill ~/Pictures/alariko-img-5136.jpeg
+fkill
+z port
+npm run dev
+lz
+npm run build
+npm run preview
+fkill
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+lz
+z metis
+lz
+claude
+claude doctor
+npm i -g @anthropic-ai/claude-code
+sudo npm i -g @anthropic-ai/claude-code
+z metis
+python3 ./scripts/dev_startup_deb.py
+z metis
+claude
+cursor
+z metis
+lz
+z metis
+lz
+z top
+curl -f https://zed.dev/install.sh | sh
+zed
+zed --foreground
+$env.RUST_BACKTRACE = 1
+zed --foreground
+org.freedesktop.portal.FileChooser
+sudo apt install libvulkan-dev
+sudo apt install libvulkan1
+sudo apt install mesa-vulkan-drivers
+zed
+$env.DRI_PRIME=1
+$env.DRI_PRIME = 1
+zed
+$env.nvidia_drm.modeset = 1
+$env.nvidia_drm.fbdev = 1
+zed
+zed --foreground
+sudo apt install vulkan-intel vulkan-radeon
+vulkaninfo
+sudo apt install vulkaninfo
+sudo apt install nvidia-compute-G06
+MESA_VK_DEVICE_SELECT=list zed --foreground
+MESA_VK_DEVICE_SELECT="10005:0" zed --foreground
+MESA_VK_DEVICE_SELECT=list zed --foreground
+MESA_VK_DEVICE_SELECT="10de:2783" zed --foreground
+MESA_VK_DEVICE_SELECT="10005:0" zed --foreground
+MESA_VK_DEVICE_SELECT="10005:0" zed
+fkill
+z metis
+lz
+cd angular
+npm i
+cd ..
+python3 ./scripts/dev_startup_deb.py
+sway
+mkdir ~/.config/sway 
+cp ~/.config/i3/config ~/.config/sway/config
+sudo hx /etc/gdm/custom.conf
+/usr/bin/sway
+cd Scripts/
+git clone https://github.com/crispyricepc/sway-nvidia
+sudo install -Dm755 sway-nvidia/sway-nvidia.sh "/usr/local/bin/sway-nvidia"
+sudo install -Dm644 sway-nvidia/sway-nvidia.desktop "/usr/share/wayland-sessions/sway-nvidia.desktop"
+sudo install -Dm644 sway-nvidia/wlroots-env-nvidia.sh "/usr/local/share/wlroots-nvidia/wlroots-env-nvidia.sh"
+sway-nvidia 
+sudo apt update && sudo apt upgrade
+sudo apt update; sudo apt upgrade
+sudo apt install river
+sudo apt install libdisplay-info1
+sudo apt install river
+zed
+zed --foreground
+whereis zed
+rm /home/liamt/.local/bin/zed
+zed
+curl -f https://zed.dev/install.sh | sh
+zed
+zed --foreground
+sudo apt install vulkan-tools libvulkan1 libvulkan-dev<\n>sudo apt install mesa-vulkan-drivers
+zed
+zed --foreground
+sudo apt install vulkan-intel
+zed --foreground
+flak
+flatpak run dev.zed.Zed --foreground
+flatpak run dev.zed.Zed
+$env.DRI_PRIME = 1
+zed
+zed --foreground
+$env.DRI_PRIME = 1; zed
+sudo apt insatll vulkan-icd-loader vulkan-intel
+sudo apt install vulkan-icd-loader vulkan-intel
+lspci | grep -i vga
+vulkaninfo 
+WAYLAND_DISPLAY='' zed
+WAYLAND_DISPLAY='' zed --foreground
+$env.RUST_BACKTRACE = 1
+WAYLAND_DISPLAY='' zed --foreground
+$env.RUST_BACKTRACE = full
+$env.RUST_BACKTRACE = "full"
+WAYLAND_DISPLAY='' zed --foreground
+nvidia-smi  # Check if drivers are working<\n>sudo apt update && sudo apt upgrade nvidia-driver-*  # Update drivers (Ubuntu/Debian)
+nvidia-smi
+sudo apt update && sudo apt upgrade nvidia-driver-*
+sudo apt update; sudo apt upgrade nvidia-driver-*
+sudo apt install vulkan-tools mesa-vulkan-drivers  # Ubuntu/Debian
+sudo apt install nvidia-smi
+LIBGL_ALWAYS_SOFTWARE=1 zed --foreground
+VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/nvidia_icd.json zed --foreground
+zed --foreground
+RUST_BACKTRACE=full RUST_LOG=debug zed --foreground
+sudo apt install nvidia-smi
+nvidia-smi
+dpkg -l | grep nvidia
+sudo apt install nvidia-utils-565
+sudo apt install nvidia-settings
+vulkaninfo
+ls -la /dev/nvidia*
+lsmod | grep nvidia
+glxinfo | grep -i nvidia
+LIBGL_ALWAYS_SOFTWARE=1 zed --foreground
+VK_LOADER_DEBUG=all zed --foreground 2>&1 | head -50
+VK_LOADER_DEBUG=all zed --foreground out+err | head -50
+zed --disable-gpu --foreground
+zed -- --disable-gpu --foreground
+sudo apt install mesa-utils
+zed
+glxinfo | grep -i nvidia
+zed
+ls
+z dot

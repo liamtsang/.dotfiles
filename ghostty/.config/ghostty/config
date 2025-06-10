@@ -1,3 +1,4 @@
+# theme = flexoki-dark
 theme = iTerm2 Default
 # theme = iTerm2 Solarized Dark
 # theme = Solarized Dark Higher Contrast
@@ -7,10 +8,10 @@ window-padding-x = 8
 window-padding-y = 8
 
 font-family = BerkeleyMono Nerd Font
-font-size = 14
+font-size = 8
 window-decoration = false
 command = nu
 window-padding-color = extend
 gtk-tabs-location = bottom
-background-opacity = 0.91
+background-opacity = 0.98
 window-theme = ghostty
