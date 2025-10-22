@@ -108,6 +108,9 @@ path add /opt/thunderbird
 path add /home/liamt/.fly/bin
 path add /home/liamt/.local/share/pnpm
 path add /home/liamt/.local/share/fnm
+path add /home/liamt/.opencode/bin:$PATH
+path add ~/.dotnet
+
 
 # $env.CLOUDFLARE_API_TOKEN = "7EbuKk0q4kjEdQRy5MQLXJh7ZtGeGKyj9JZXcBbU"
 # $env.CLOUDFLARE_ACCOUNT_ID = "6f15a8824cd9137f63041853473f071f"

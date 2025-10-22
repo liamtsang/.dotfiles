@@ -107,7 +107,8 @@ focus_follows_mouse no
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec ghostty
+# bindsym $mod+Return exec ghostty
+bindsym $mod+Return exec kitty
 bindsym $mod+b exec firefox-devedition
 
 # kill focused window
@@ -162,6 +163,9 @@ bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
+
+# float window as small video in bottom right
+bindsym $mod+Shift+f exec --no-startup-id ~/.config/i3/scripts/float-video.sh
 
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
